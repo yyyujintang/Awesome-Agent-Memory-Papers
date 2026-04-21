@@ -96,6 +96,11 @@ code {
   color: var(--text-muted);
   margin-top: 1px;
 }
+.brand .tag-line a {
+  color: var(--text);
+  font-weight: 500;
+}
+.brand .tag-line a:hover { color: var(--accent); }
 .topbar-right {
   display: flex;
   align-items: center;
