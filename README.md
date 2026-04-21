@@ -13,11 +13,11 @@ Interactive dashboard with multi-tag filtering: **<https://yyyujintang.github.io
 
 - [Surveys](#surveys)
 - [Benchmarks](#benchmarks)
-  - [QA-based Memory Evaluation](#qa-based-memory-evaluation) (4)
+  - [QA-based Memory Evaluation](#qa-based-memory-evaluation) (5)
   - [Web Navigation](#web-navigation) (7)
   - [Desktop / Mobile GUI](#desktop-mobile-gui) (6)
   - [Embodied & Game Environments](#embodied-game-environments) (6)
-  - [General Long-Horizon / Office](#general-long-horizon-office) (8)
+  - [General Long-Horizon / Office](#general-long-horizon-office) (7)
 - [Methods](#methods)
   - [Multimodal Memory](#multimodal-memory) (16)
   - [Procedural Memory](#procedural-memory) (10)
@@ -54,6 +54,9 @@ Evaluation suites for agent memory, split by interaction mode.
 
 ### QA-based Memory Evaluation
 
+- [KnowMe-Bench: Benchmarking Person Understanding for Lifelong Digital Companions](https://arxiv.org/abs/2601.04745)  
+  *2026-01-08*  
+  `Benchmark` `QA`
 - [Mem-Gallery: Benchmarking Multimodal Long-Term Conversational Memory for MLLM Agents](https://arxiv.org/abs/2601.03515)  
   *2026-01-07*  
   `Benchmark` `QA`
@@ -114,7 +117,7 @@ Evaluation suites for agent memory, split by interaction mode.
 
 ### Embodied & Game Environments
 
-- AGENTVISTA: Evaluating Multimodal Agents in Ultra-Challenging Realistic Visual Scenarios  
+- [AGENTVISTA: Evaluating Multimodal Agents in Ultra-Challenging Realistic Visual Scenarios](https://arxiv.org/abs/2602.23166)  
   *2026-02-26* · Junxian He, May Fung  
   `Benchmark` `Embodied`
 - [MentisOculi: Revealing the Limits of Reasoning with Mental Imagery](https://arxiv.org/abs/2602.02465)  
@@ -135,14 +138,11 @@ Evaluation suites for agent memory, split by interaction mode.
 
 ### General Long-Horizon / Office
 
-- AMA-Bench: Evaluating Long-Horizon Memory for Agentic Applications  
+- [AMA-Bench: Evaluating Long-Horizon Memory for Agentic Applications](https://arxiv.org/abs/2602.22769)  
   *2026-02-26*  
   `Benchmark` `Long-Horizon`
 - [MemoryArena: Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks](https://arxiv.org/abs/2602.16313)  
   *2026-02-12* · Yu Wang, Yuanzhe Hu  
-  `Benchmark` `Long-Horizon`
-- KnowMe-Bench: Benchmarking Person Understanding for Lifelong Digital Companion  
-  *2026-01-08*  
   `Benchmark` `Long-Horizon`
 - [A Framework for Studying AI Agent Behavior: Evidence from Consumer Choice Experiments](https://arxiv.org/abs/2509.25609)  
   *2025-09-30* · **ICLR26** · Nikhil, ABxLab  
@@ -292,7 +292,7 @@ Each paper is placed in exactly **one** primary section (Multimodal > Procedural
 - [Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://arxiv.org/abs/2504.19413)  
   *2025-04-28*  
   `Method` `External` `Prompt-based` `Episodic` `Semantic`
-- [R3Mem: Bridging Memory Retention and Retrieval via Reversible Compressio n](https://arxiv.org/abs/2502.15957)  
+- [R3Mem: Bridging Memory Retention and Retrieval via Reversible Compressio n](https://arxiv.org/abs/2502.15957)  
   *2025-02-21*  
   `Method` `External` `Prompt-based` `Episodic`
 - [HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models](https://arxiv.org/abs/2405.14831)  
