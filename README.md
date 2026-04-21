@@ -1,10 +1,10 @@
 # Awesome Agent Memory Papers
 
-[![Stars](https://img.shields.io/github/stars/yyyujintang/Awesome-Agent-Memory-Papers?style=social)](https://github.com/yyyujintang/Awesome-Agent-Memory-Papers/stargazers) ![Last updated](https://img.shields.io/badge/last%20updated-2026--04--07-blue) ![Papers](https://img.shields.io/badge/papers-88-success)
+[![Stars](https://img.shields.io/github/stars/yyyujintang/Awesome-Agent-Memory-Papers?style=social)](https://github.com/yyyujintang/Awesome-Agent-Memory-Papers/stargazers) ![Last updated](https://img.shields.io/badge/last%20updated-2026--04--21-blue) ![Papers](https://img.shields.io/badge/papers-88-success)
 
 A curated list of papers on **memory for LLM / multimodal agents** — methods, benchmarks, and surveys — covering episodic, semantic, procedural, and multimodal memory, with both parametric (internal) and retrieval-based (external) storage, learned via prompting, supervised finetuning, or reinforcement learning.
 
-**88 papers** · 7 surveys · 31 benchmarks · 50 methods · last updated **2026-04-07**
+**88 papers** · 7 surveys · 31 benchmarks · 50 methods · last updated **2026-04-21**
 
 Interactive dashboard with multi-tag filtering: **<https://yyyujintang.github.io/Awesome-Agent-Memory-Papers/>**
 
