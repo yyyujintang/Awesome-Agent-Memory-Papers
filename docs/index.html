@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Awesome Agent Memory Papers</title>
+<meta name="description" content="A curated, filterable dashboard of papers on memory for LLM agents — methods, benchmarks, and surveys." />
+<link rel="stylesheet" href="assets/style.css" />
+</head>
+<body>
+
+<header class="topbar">
+  <div class="brand">
+    <h1>Awesome Agent Memory Papers</h1>
+    <span class="tag-line">methods · benchmarks · surveys for LLM-agent memory</span>
+  </div>
+  <div class="topbar-right">
+    <input id="search" type="search" placeholder="Search title, author, venue…" autocomplete="off" />
+    <select id="sort">
+      <option value="date-desc">Newest first</option>
+      <option value="date-asc">Oldest first</option>
+      <option value="title">Title A→Z</option>
+      <option value="venue">Venue</option>
+    </select>
+    <a class="gh" href="https://github.com/" target="_blank" rel="noopener" id="gh-link" title="GitHub repository">GitHub</a>
+  </div>
+</header>
+
+<div class="layout">
+
+  <aside class="sidebar" id="sidebar">
+    <div class="sidebar-head">
+      <strong>Filters</strong>
+      <button id="clear-filters" title="Reset all filters">Clear</button>
+    </div>
+
+    <section class="filter-group" data-facet="category">
+      <h3>Category</h3>
+      <div class="facet-options"></div>
+    </section>
+
+    <section class="filter-group" data-facet="benchmark_type">
+      <h3>Benchmark Type</h3>
+      <div class="facet-options"></div>
+    </section>
+
+    <section class="filter-group" data-facet="storage">
+      <h3>Storage</h3>
+      <div class="facet-options"></div>
+    </section>
+
+    <section class="filter-group" data-facet="learning">
+      <h3>Learning</h3>
+      <div class="facet-options"></div>
+    </section>
+
+    <section class="filter-group" data-facet="memory_type">
+      <h3>Memory Type</h3>
+      <div class="facet-options"></div>
+    </section>
+
+    <section class="filter-group" data-facet="year">
+      <h3>Year</h3>
+      <div class="facet-options"></div>
+    </section>
+
+    <section class="filter-group" data-facet="extras">
+      <h3>Extras</h3>
+      <div class="facet-options">
+        <label class="chk"><input type="checkbox" data-extra="has_code"> Has code</label>
+        <label class="chk"><input type="checkbox" data-extra="has_venue"> Has venue</label>
+      </div>
+    </section>
+
+    <div class="sidebar-footer">
+      Built from <code>data/papers.json</code>.<br/>
+      Tags rule-based + Gemini 2.5-flash, manually corrected.
+    </div>
+  </aside>
+
+  <main class="main">
+    <div class="results-bar">
+      <span id="result-count">Loading…</span>
+      <span id="active-tags" class="active-tags"></span>
+    </div>
+    <div id="results" class="cards"></div>
+    <div id="empty" class="empty" hidden>No papers match the current filters.</div>
+  </main>
+
+</div>
+
+<footer class="footer">
+  <span>Open-source · contributions welcome</span>
+  <span>Tagging = rule-based + Gemini + manual review</span>
+</footer>
+
+<script src="assets/app.js"></script>
+</body>
+</html>

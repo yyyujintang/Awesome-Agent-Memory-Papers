@@ -1,0 +1,1912 @@
+{
+  "papers": [
+    {
+      "id": "textworld-a-learning-environment-for-text-based-game",
+      "title": "TextWorld: A Learning Environment for Text-based Game",
+      "venue": "IJCAI18",
+      "year": 2018,
+      "date": "2018-06-29",
+      "link": "https://arxiv.org/abs/1806.11532",
+      "code": "",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Benchmark",
+        "benchmark_type": "Embodied",
+        "storage": [],
+        "learning": [],
+        "memory_type": []
+      }
+    },
+    {
+      "id": "alfred-a-benchmark-for-interpreting-grounded-instructions-for-everyday-tasks",
+      "title": "ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks",
+      "venue": "CVPR20",
+      "year": 2019,
+      "date": "2019-12-03",
+      "link": "https://arxiv.org/abs/1912.01734",
+      "code": "",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Benchmark",
+        "benchmark_type": "Embodied",
+        "storage": [],
+        "learning": [],
+        "memory_type": []
+      }
+    },
+    {
+      "id": "alfworld-aligning-text-and-embodied-environments-for-interactive-learning",
+      "title": "ALFWorld: Aligning Text and Embodied Environments for Interactive Learning",
+      "venue": "ICLR21",
+      "year": 2020,
+      "date": "2020-10-08",
+      "link": "https://arxiv.org/abs/2010.03768",
+      "code": "",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Benchmark",
+        "benchmark_type": "Embodied",
+        "storage": [],
+        "learning": [],
+        "memory_type": []
+      }
+    },
+    {
+      "id": "dual-coding-of-knowledge-in-the-human-brain",
+      "title": "Dual coding of knowledge in the human brain",
+      "venue": "",
+      "year": 2021,
+      "date": "2021-09-08",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1364661321001765",
+      "code": "",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Survey",
+        "benchmark_type": null,
+        "storage": [],
+        "learning": [],
+        "memory_type": []
+      }
+    },
+    {
+      "id": "webshop-towards-scalable-real-world-web-interaction-with-grounded-language-agent",
+      "title": "WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents",
+      "venue": "NeurIPS22",
+      "year": 2022,
+      "date": "2022-07-04",
+      "link": "https://arxiv.org/abs/2207.01206",
+      "code": "https://github.com/princeton-nlp/WebShop",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Benchmark",
+        "benchmark_type": "Web",
+        "storage": [],
+        "learning": [],
+        "memory_type": []
+      }
+    },
+    {
+      "id": "memorybank-enhancing-large-language-models-with-long-term-memory",
+      "title": "MemoryBank: Enhancing Large Language Models with Long-Term Memory",
+      "venue": "",
+      "year": 2023,
+      "date": "2023-05-17",
+      "link": "https://arxiv.org/abs/2305.10250",
+      "code": "",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Method",
+        "benchmark_type": null,
+        "storage": [
+          "External"
+        ],
+        "learning": [
+          "Prompt-based"
+        ],
+        "memory_type": [
+          "Episodic",
+          "Semantic"
+        ]
+      }
+    },
+    {
+      "id": "mind2web-towards-a-generalist-agent-for-the-web",
+      "title": "Mind2Web: Towards a Generalist Agent for the Web",
+      "venue": "NeurIPS23, Spotlight",
+      "year": 2023,
+      "date": "2023-06-09",
+      "link": "https://arxiv.org/abs/2306.06070",
+      "code": "",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Benchmark",
+        "benchmark_type": "Web",
+        "storage": [],
+        "learning": [],
+        "memory_type": []
+      }
+    },
+    {
+      "id": "synapse-trajectory-as-exemplar-prompting-with-memory-for-computer-control",
+      "title": "Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control",
+      "venue": "",
+      "year": 2023,
+      "date": "2023-06-13",
+      "link": "https://arxiv.org/abs/2306.07863",
+      "code": "https://github.com/ltzheng/Synapse",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Method",
+        "benchmark_type": null,
+        "storage": [
+          "External"
+        ],
+        "learning": [
+          "Prompt-based"
+        ],
+        "memory_type": [
+          "Episodic",
+          "Procedural"
+        ]
+      }
+    },
+    {
+      "id": "webarena-a-realistic-web-environment-for-building-autonomous-agents",
+      "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+      "venue": "ICLR24",
+      "year": 2023,
+      "date": "2023-07-25",
+      "link": "https://arxiv.org/abs/2307.13854",
+      "code": "",
+      "notes": "",
+      "authors": "Shuyan Zhou, Duke",
+      "tags": {
+        "category": "Benchmark",
+        "benchmark_type": "Web",
+        "storage": [],
+        "learning": [],
+        "memory_type": []
+      }
+    },
+    {
+      "id": "agentbench-evaluating-llms-as-agents",
+      "title": "AgentBench: Evaluating LLMs as Agents",
+      "venue": "ICLR24",
+      "year": 2023,
+      "date": "2023-08-07",
+      "link": "https://arxiv.org/abs/2308.03688",
+      "code": "https://github.com/THUDM/AgentBench",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Benchmark",
+        "benchmark_type": "Long-Horizon",
+        "storage": [],
+        "learning": [],
+        "memory_type": []
+      }
+    },
+    {
+      "id": "visualwebarena-evaluating-multimodal-agents-on-realistic-visual-web-tasks",
+      "title": "VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks",
+      "venue": "ACL24",
+      "year": 2024,
+      "date": "2024-01-24",
+      "link": "https://arxiv.org/abs/2401.13649",
+      "code": "https://github.com/web-arena-x/visualwebarena",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Benchmark",
+        "benchmark_type": "Web",
+        "storage": [],
+        "learning": [],
+        "memory_type": []
+      }
+    },
+    {
+      "id": "locomo-evaluating-very-long-term-conversational-memory-of-llm-agents",
+      "title": "(LoCoMo) Evaluating Very Long-Term Conversational Memory of LLM Agents",
+      "venue": "",
+      "year": 2024,
+      "date": "2024-02-27",
+      "link": "",
+      "code": "",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Benchmark",
+        "benchmark_type": "QA",
+        "storage": [],
+        "learning": [],
+        "memory_type": []
+      }
+    },
+    {
+      "id": "osworld-benchmarking-multimodal-agents-for-open-ended-tasks-in-real-computer-env",
+      "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+      "venue": "NeurIPS24",
+      "year": 2024,
+      "date": "2024-04-11",
+      "link": "https://arxiv.org/abs/2404.07972",
+      "code": "https://github.com/xlang-ai/OSWorld",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Benchmark",
+        "benchmark_type": "GUI",
+        "storage": [],
+        "learning": [],
+        "memory_type": []
+      }
+    },
+    {
+      "id": "hipporag-neurobiologically-inspired-long-term-memory-for-large-language-models",
+      "title": "HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models",
+      "venue": "NeurIPS24",
+      "year": 2024,
+      "date": "2024-05-23",
+      "link": "https://arxiv.org/abs/2405.14831",
+      "code": "https://github.com/OSU-NLP-Group/HippoRAG",
+      "notes": "",
+      "authors": "Yu Su",
+      "tags": {
+        "category": "Method",
+        "benchmark_type": null,
+        "storage": [
+          "External"
+        ],
+        "learning": [
+          "Prompt-based",
+          "Training-free"
+        ],
+        "memory_type": [
+          "Episodic",
+          "Semantic"
+        ]
+      }
+    },
+    {
+      "id": "optimus-1-hybrid-multimodal-memory-empowered-agents-excel-in-long-horizon-tasks",
+      "title": "Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks",
+      "venue": "NeurIPS24",
+      "year": 2024,
+      "date": "2024-08-07",
+      "link": "https://arxiv.org/abs/2408.03615",
+      "code": "https://github.com/JiuTian-VL/Optimus-1",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Method",
+        "benchmark_type": null,
+        "storage": [
+          "External"
+        ],
+        "learning": [
+          "Prompt-based"
+        ],
+        "memory_type": [
+          "Multimodal"
+        ]
+      }
+    },
+    {
+      "id": "visualagentbench-towards-large-multimodal-models-as-visual-foundation-agents",
+      "title": "VisualAgentBench: Towards Large Multimodal Models as Visual Foundation Agents",
+      "venue": "",
+      "year": 2024,
+      "date": "2024-08-12",
+      "link": "https://arxiv.org/abs/2408.06327",
+      "code": "https://github.com/THUDM/VisualAgentBench",
+      "notes": "",
+      "authors": "THU-Jie Tang",
+      "tags": {
+        "category": "Benchmark",
+        "benchmark_type": "GUI",
+        "storage": [],
+        "learning": [],
+        "memory_type": []
+      }
+    },
+    {
+      "id": "agent-workflow-memory-awm",
+      "title": "Agent Workflow Memory (AWM)",
+      "venue": "ICML26",
+      "year": 2024,
+      "date": "2024-09-11",
+      "link": "https://arxiv.org/abs/2409.07429",
+      "code": "https://github.com/zorazrw/agent-workflow-memory",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Method",
+        "benchmark_type": null,
+        "storage": [
+          "External"
+        ],
+        "learning": [
+          "Prompt-based"
+        ],
+        "memory_type": [
+          "Procedural"
+        ]
+      }
+    },
+    {
+      "id": "memsim-a-bayesian-simulator-for-evaluating-memory-of-llm-based-personal-assistan",
+      "title": "MemSim: A Bayesian Simulator for Evaluating Memory of LLM-based Personal Assistants",
+      "venue": "NeurIPS25",
+      "year": 2024,
+      "date": "2024-09-30",
+      "link": "https://arxiv.org/abs/2409.20163",
+      "code": "https://github.com/nuster1128/MemSim",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Benchmark",
+        "benchmark_type": "Long-Horizon",
+        "storage": [],
+        "learning": [],
+        "memory_type": []
+      }
+    },
+    {
+      "id": "longmemeval-benchmarking-chat-assistants-on-long-term-interactive-memory",
+      "title": "LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory",
+      "venue": "",
+      "year": 2024,
+      "date": "2024-10-14",
+      "link": "https://arxiv.org/abs/2410.10813",
+      "code": "",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Benchmark",
+        "benchmark_type": "QA",
+        "storage": [],
+        "learning": [],
+        "memory_type": []
+      }
+    },
+    {
+      "id": "the-browsergym-ecosystem-for-web-agent-research",
+      "title": "The BrowserGym Ecosystem for Web Agent Research",
+      "venue": "",
+      "year": 2024,
+      "date": "2024-12-06",
+      "link": "https://arxiv.org/abs/2412.05467",
+      "code": "",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Benchmark",
+        "benchmark_type": "Web",
+        "storage": [],
+        "learning": [],
+        "memory_type": []
+      }
+    },
+    {
+      "id": "theagentcompany-benchmarking-llm-agents-on-consequential-real-world-tasks",
+      "title": "TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks",
+      "venue": "",
+      "year": 2024,
+      "date": "2024-12-18",
+      "link": "https://arxiv.org/abs/2412.14161",
+      "code": "",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Benchmark",
+        "benchmark_type": "Long-Horizon",
+        "storage": [],
+        "learning": [],
+        "memory_type": []
+      }
+    },
+    {
+      "id": "episodic-memory-in-ai-agents-poses-risks-that-should-be-studied-and-mitigate",
+      "title": "Episodic memory in AI agents poses risks that should be studied and mitigate",
+      "venue": "",
+      "year": 2025,
+      "date": "2025-01-20",
+      "link": "https://arxiv.org/abs/2501.11739",
+      "code": "",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Survey",
+        "benchmark_type": null,
+        "storage": [],
+        "learning": [],
+        "memory_type": []
+      }
+    },
+    {
+      "id": "sam2act-integrating-visual-foundation-model-with-a-memory-architecture-for-robot",
+      "title": "SAM2Act: Integrating Visual Foundation Model with A Memory Architecture for Robotic Manipulation",
+      "venue": "",
+      "year": 2025,
+      "date": "2025-01-30",
+      "link": "https://arxiv.org/abs/2501.18564",
+      "code": "https://github.com/sam2act/sam2act",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Method",
+        "benchmark_type": null,
+        "storage": [
+          "External"
+        ],
+        "learning": [
+          "Prompt-based"
+        ],
+        "memory_type": [
+          "Episodic",
+          "Multimodal"
+        ]
+      }
+    },
+    {
+      "id": "a-mem-agentic-memory-for-llm-agents",
+      "title": "A-MEM: Agentic Memory for LLM Agents",
+      "venue": "NeurIPS25",
+      "year": 2025,
+      "date": "2025-02-17",
+      "link": "https://arxiv.org/abs/2502.12110",
+      "code": "https://github.com/WujiangXu/A-mem",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Method",
+        "benchmark_type": null,
+        "storage": [
+          "External"
+        ],
+        "learning": [
+          "Prompt-based"
+        ],
+        "memory_type": [
+          "Episodic",
+          "Procedural",
+          "Semantic"
+        ]
+      }
+    },
+    {
+      "id": "from-rag-to-memory-non-parametric-continual-learning-for-large-language-models-h",
+      "title": "From RAG to Memory: Non-Parametric Continual Learning for Large Language Models  (HippoRAG 2)",
+      "venue": "ICML25",
+      "year": 2025,
+      "date": "2025-02-20",
+      "link": "https://arxiv.org/abs/2502.14802",
+      "code": "https://github.com/OSU-NLP-Group/HippoRAG",
+      "notes": "HippoRAG2, Yu Su",
+      "authors": "",
+      "tags": {
+        "category": "Method",
+        "benchmark_type": null,
+        "storage": [
+          "External",
+          "Internal"
+        ],
+        "learning": [
+          "Prompt-based"
+        ],
+        "memory_type": [
+          "Semantic"
+        ]
+      }
+    },
+    {
+      "id": "r3mem-bridging-memory-retention-and-retrieval-via-reversible-compressio-n",
+      "title": "R3Mem: Bridging Memory Retention and Retrieval via Reversible Compressio n",
+      "venue": "",
+      "year": 2025,
+      "date": "2025-02-21",
+      "link": "https://arxiv.org/abs/2502.15957",
+      "code": "",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Method",
+        "benchmark_type": null,
+        "storage": [
+          "External"
+        ],
+        "learning": [
+          "Prompt-based"
+        ],
+        "memory_type": [
+          "Episodic"
+        ]
+      }
+    },
+    {
+      "id": "retrieval-augmented-generation-and-understanding-in-vision-a-survey-and-new-outl",
+      "title": "Retrieval Augmented Generation and Understanding in Vision: A Survey and New Outlook",
+      "venue": "",
+      "year": 2025,
+      "date": "2025-03-23",
+      "link": "https://arxiv.org/abs/2503.18016",
+      "code": "",
+      "notes": "",
+      "authors": "Xuming Hu",
+      "tags": {
+        "category": "Survey",
+        "benchmark_type": null,
+        "storage": [],
+        "learning": [],
+        "memory_type": []
+      }
+    },
+    {
+      "id": "realwebassist-a-benchmark-for-long-horizon-web-assistance-with-real-world-users",
+      "title": "RealWebAssist: A Benchmark for Long-Horizon Web Assistance with Real-World Users",
+      "venue": "",
+      "year": 2025,
+      "date": "2025-04-14",
+      "link": "https://arxiv.org/abs/2504.10445",
+      "code": "",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Benchmark",
+        "benchmark_type": "Web",
+        "storage": [],
+        "learning": [],
+        "memory_type": []
+      }
+    },
+    {
+      "id": "capture-evaluating-spatial-reasoning-in-vision-language-models-via-occluded-obje",
+      "title": "CAPTURe: Evaluating Spatial Reasoning in Vision Language Models via Occluded Object Counting",
+      "venue": "ICCV25",
+      "year": 2025,
+      "date": "2025-04-21",
+      "link": "https://arxiv.org/abs/2504.15485",
+      "code": "",
+      "notes": "",
+      "authors": "Mohit Bansal",
+      "tags": {
+        "category": "Benchmark",
+        "benchmark_type": "Embodied",
+        "storage": [],
+        "learning": [],
+        "memory_type": []
+      }
+    },
+    {
+      "id": "mem0-building-production-ready-ai-agents-with-scalable-long-term-memory",
+      "title": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory",
+      "venue": "",
+      "year": 2025,
+      "date": "2025-04-28",
+      "link": "https://arxiv.org/abs/2504.19413",
+      "code": "",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Method",
+        "benchmark_type": null,
+        "storage": [
+          "External"
+        ],
+        "learning": [
+          "Prompt-based"
+        ],
+        "memory_type": [
+          "Episodic",
+          "Semantic"
+        ]
+      }
+    },
+    {
+      "id": "towards-general-continuous-memory-for-vision-language-models",
+      "title": "Towards General Continuous Memory for Vision-Language Models",
+      "venue": "NeurIPS25",
+      "year": 2025,
+      "date": "2025-05-23",
+      "link": "https://arxiv.org/abs/2505.17670",
+      "code": "",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Method",
+        "benchmark_type": null,
+        "storage": [
+          "External",
+          "Internal"
+        ],
+        "learning": [
+          "SFT"
+        ],
+        "memory_type": [
+          "Episodic",
+          "Multimodal",
+          "Semantic"
+        ]
+      }
+    },
+    {
+      "id": "3dllm-mem-long-term-spatial-temporal-memory-for-embodied-3d-large-language-model",
+      "title": "3DLLM-Mem: Long-Term Spatial-Temporal Memory for Embodied 3D Large Language Model",
+      "venue": "",
+      "year": 2025,
+      "date": "2025-05-28",
+      "link": "https://arxiv.org/abs/2505.22657",
+      "code": "",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Method",
+        "benchmark_type": null,
+        "storage": [
+          "External"
+        ],
+        "learning": [
+          "Prompt-based"
+        ],
+        "memory_type": [
+          "Episodic",
+          "Multimodal",
+          "Semantic"
+        ]
+      }
+    },
+    {
+      "id": "memory-os-of-ai-agent",
+      "title": "Memory OS of AI Agent",
+      "venue": "EMNLIP25 Main",
+      "year": 2025,
+      "date": "2025-05-30",
+      "link": "https://arxiv.org/abs/2506.06326",
+      "code": "",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Method",
+        "benchmark_type": null,
+        "storage": [
+          "External"
+        ],
+        "learning": [
+          "Prompt-based"
+        ],
+        "memory_type": [
+          "Episodic",
+          "Procedural",
+          "Semantic"
+        ]
+      }
+    },
+    {
+      "id": "webchorearena-evaluating-web-browsing-agents-on-realistic-tedious-web-tasks",
+      "title": "WebChoreArena: Evaluating Web Browsing Agents on Realistic Tedious Web Tasks",
+      "venue": "",
+      "year": 2025,
+      "date": "2025-06-02",
+      "link": "",
+      "code": "",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Benchmark",
+        "benchmark_type": "Web",
+        "storage": [],
+        "learning": [],
+        "memory_type": []
+      }
+    },
+    {
+      "id": "scaling-test-time-compute-for-llm-agents",
+      "title": "Scaling Test-time Compute for LLM Agents",
+      "venue": "ICLR26",
+      "year": 2025,
+      "date": "2025-06-15",
+      "link": "https://arxiv.org/abs/2506.12928",
+      "code": "",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Method",
+        "benchmark_type": null,
+        "storage": [
+          "Internal"
+        ],
+        "learning": [
+          "Prompt-based"
+        ],
+        "memory_type": []
+      }
+    },
+    {
+      "id": "machine-mental-imagery-empower-multimodal-reasoning-with-latent-visual-token",
+      "title": "Machine Mental Imagery: Empower Multimodal Reasoning with Latent Visual Token",
+      "venue": "",
+      "year": 2025,
+      "date": "2025-06-20",
+      "link": "https://arxiv.org/abs/2506.17218",
+      "code": "https://github.com/UMass-Embodied-AGI/Mirage",
+      "notes": "",
+      "authors": "Chuang Gan",
+      "tags": {
+        "category": "Method",
+        "benchmark_type": null,
+        "storage": [
+          "Internal"
+        ],
+        "learning": [],
+        "memory_type": [
+          "Multimodal"
+        ]
+      }
+    },
+    {
+      "id": "ella-embodied-social-agents-with-lifelong-memory",
+      "title": "Ella: Embodied Social Agents with Lifelong Memory",
+      "venue": "",
+      "year": 2025,
+      "date": "2025-06-30",
+      "link": "https://arxiv.org/abs/2506.24019",
+      "code": "",
+      "notes": "",
+      "authors": "Chuang Gan",
+      "tags": {
+        "category": "Method",
+        "benchmark_type": null,
+        "storage": [
+          "External"
+        ],
+        "learning": [
+          "Prompt-based"
+        ],
+        "memory_type": [
+          "Episodic",
+          "Semantic"
+        ]
+      }
+    },
+    {
+      "id": "evaluating-memory-in-llm-agents-via-incremental-multi-turn-interactions",
+      "title": "Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions",
+      "venue": "ICLR26",
+      "year": 2025,
+      "date": "2025-07-07",
+      "link": "https://arxiv.org/abs/2507.05257",
+      "code": "https://github.com/HUST-AI-HYZ/MemoryAgentBench",
+      "notes": "",
+      "authors": "Yuanzhe Hu",
+      "tags": {
+        "category": "Benchmark",
+        "benchmark_type": "QA",
+        "storage": [],
+        "learning": [],
+        "memory_type": []
+      }
+    },
+    {
+      "id": "prime-large-language-model-personalization-with-cognitive-dual-memory-and-person",
+      "title": "PRIME: Large Language Model Personalization with Cognitive Dual-Memory and Personalized Thought Process",
+      "venue": "EMNLP25, Main",
+      "year": 2025,
+      "date": "2025-07-07",
+      "link": "https://arxiv.org/abs/2507.04607",
+      "code": "",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Method",
+        "benchmark_type": null,
+        "storage": [
+          "External"
+        ],
+        "learning": [
+          "Prompt-based"
+        ],
+        "memory_type": [
+          "Episodic",
+          "Semantic"
+        ]
+      }
+    },
+    {
+      "id": "mavis-a-multi-agent-framework-for-long-sequence-video-storytelling",
+      "title": "MAViS: A Multi-Agent Framework for Long-Sequence Video Storytelling",
+      "venue": "",
+      "year": 2025,
+      "date": "2025-08-11",
+      "link": "https://arxiv.org/abs/2508.08487",
+      "code": "",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Method",
+        "benchmark_type": null,
+        "storage": [
+          "External"
+        ],
+        "learning": [
+          "Prompt-based"
+        ],
+        "memory_type": [
+          "Episodic",
+          "Multimodal"
+        ]
+      }
+    },
+    {
+      "id": "odysseybench-evaluating-llm-agents-on-long-horizon-complex-office-application-wo",
+      "title": "OdysseyBench: Evaluating LLM Agents on Long-Horizon Complex Office Application Workflows",
+      "venue": "",
+      "year": 2025,
+      "date": "2025-08-12",
+      "link": "https://arxiv.org/abs/2508.09124",
+      "code": "",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Benchmark",
+        "benchmark_type": "Long-Horizon",
+        "storage": [],
+        "learning": [],
+        "memory_type": []
+      }
+    },
+    {
+      "id": "m3-agent-seeing-listening-remembering-and-reasoning-a-multimodal-agent-with-long",
+      "title": "(M3-Agent) Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory",
+      "venue": "ICLR26",
+      "year": 2025,
+      "date": "2025-08-13",
+      "link": "https://arxiv.org/abs/2508.09736",
+      "code": "https://github.com/bytedance-seed/m3-agent",
+      "notes": "",
+      "authors": "ByteDance Seed",
+      "tags": {
+        "category": "Method",
+        "benchmark_type": null,
+        "storage": [
+          "External"
+        ],
+        "learning": [
+          "SFT"
+        ],
+        "memory_type": [
+          "Episodic",
+          "Multimodal",
+          "Semantic"
+        ]
+      }
+    },
+    {
+      "id": "explicit-v-s-implicit-memory-exploring-multi-hop-complex-reasoning-over-personal",
+      "title": "Explicit v.s. Implicit Memory: Exploring Multi-hop Complex Reasoning Over Personalized Information",
+      "venue": "SIGKDD 26",
+      "year": 2025,
+      "date": "2025-08-15",
+      "link": "https://arxiv.org/abs/2508.13250",
+      "code": "",
+      "notes": "",
+      "authors": "Zeyu Zhang",
+      "tags": {
+        "category": "Method",
+        "benchmark_type": null,
+        "storage": [
+          "External",
+          "Internal"
+        ],
+        "learning": [
+          "Prompt-based"
+        ],
+        "memory_type": [
+          "Semantic"
+        ]
+      }
+    },
+    {
+      "id": "a-neural-network-model-of-free-recall-learns-multiple-memory-strategies",
+      "title": "A neural network model of free recall learns multiple memory strategies",
+      "venue": "",
+      "year": 2025,
+      "date": "2025-09-25",
+      "link": "https://www.biorxiv.org/content/10.1101/2025.09.25.678592v1.abstract",
+      "code": "https://github.com/Veritaria/rnn-free-recall",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Method",
+        "benchmark_type": null,
+        "storage": [
+          "Internal"
+        ],
+        "learning": [],
+        "memory_type": [
+          "Episodic"
+        ]
+      }
+    },
+    {
+      "id": "memory-management-and-contextual-consistency-for-long-running-low-code-agents",
+      "title": "Memory Management and Contextual Consistency for Long-Running Low-Code Agents",
+      "venue": "",
+      "year": 2025,
+      "date": "2025-09-27",
+      "link": "https://arxiv.org/abs/2509.25250",
+      "code": "",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Method",
+        "benchmark_type": null,
+        "storage": [
+          "External"
+        ],
+        "learning": [
+          "Prompt-based"
+        ],
+        "memory_type": [
+          "Episodic",
+          "Procedural"
+        ]
+      }
+    },
+    {
+      "id": "reasoningbank-scaling-agent-self-evolving-with-reasoning-memory",
+      "title": "ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory",
+      "venue": "ICLR26",
+      "year": 2025,
+      "date": "2025-09-29",
+      "link": "https://arxiv.org/abs/2509.25140",
+      "code": "",
+      "notes": "",
+      "authors": "Siru Ouyang",
+      "tags": {
+        "category": "Method",
+        "benchmark_type": null,
+        "storage": [
+          "External"
+        ],
+        "learning": [
+          "Prompt-based"
+        ],
+        "memory_type": [
+          "Episodic",
+          "Procedural"
+        ]
+      }
+    },
+    {
+      "id": "memgen-weaving-generative-latent-memory-for-self-evolving-agents",
+      "title": "MemGen: Weaving Generative Latent Memory for Self-Evolving Agents",
+      "venue": "",
+      "year": 2025,
+      "date": "2025-09-29",
+      "link": "https://arxiv.org/abs/2509.24704",
+      "code": "https://github.com/KANABOON1/MemGen",
+      "notes": "",
+      "authors": "Shuicheng Yan, Guibin Zhang",
+      "tags": {
+        "category": "Method",
+        "benchmark_type": null,
+        "storage": [
+          "Internal"
+        ],
+        "learning": [],
+        "memory_type": []
+      }
+    },
+    {
+      "id": "a-framework-for-studying-ai-agent-behavior-evidence-from-consumer-choice-experim",
+      "title": "A Framework for Studying AI Agent Behavior: Evidence from Consumer Choice Experiments",
+      "venue": "ICLR26",
+      "year": 2025,
+      "date": "2025-09-30",
+      "link": "https://arxiv.org/abs/2509.25609",
+      "code": "",
+      "notes": "",
+      "authors": "Nikhil, ABxLab",
+      "tags": {
+        "category": "Benchmark",
+        "benchmark_type": "Long-Horizon",
+        "storage": [],
+        "learning": [],
+        "memory_type": []
+      }
+    },
+    {
+      "id": "tokmem-tokenized-procedural-memory-for-large-language-models",
+      "title": "TokMem: Tokenized Procedural Memory for Large Language Models",
+      "venue": "",
+      "year": 2025,
+      "date": "2025-10-01",
+      "link": "https://arxiv.org/abs/2510.00444",
+      "code": "",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Method",
+        "benchmark_type": null,
+        "storage": [
+          "Internal"
+        ],
+        "learning": [
+          "SFT"
+        ],
+        "memory_type": [
+          "Procedural"
+        ]
+      }
+    },
+    {
+      "id": "agentrl-scaling-agentic-reinforcement-learning-with-a-multi-turn-multi-task-fram",
+      "title": "AgentRL: Scaling Agentic Reinforcement Learning with a Multi-Turn, Multi-Task Framework",
+      "venue": "",
+      "year": 2025,
+      "date": "2025-10-05",
+      "link": "https://arxiv.org/abs/2510.04206",
+      "code": "",
+      "notes": "",
+      "authors": "Jie Tang",
+      "tags": {
+        "category": "Method",
+        "benchmark_type": null,
+        "storage": [],
+        "learning": [
+          "RL-based"
+        ],
+        "memory_type": []
+      }
+    },
+    {
+      "id": "videolucy-deep-memory-backtracking-for-long-video-understanding",
+      "title": "VideoLucy: Deep Memory Backtracking for Long Video Understanding",
+      "venue": "NeurIPS25",
+      "year": 2025,
+      "date": "2025-10-14",
+      "link": "https://arxiv.org/abs/2510.12422",
+      "code": "",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Method",
+        "benchmark_type": null,
+        "storage": [
+          "External"
+        ],
+        "learning": [
+          "SFT"
+        ],
+        "memory_type": [
+          "Episodic",
+          "Multimodal"
+        ]
+      }
+    },
+    {
+      "id": "vagen-reinforcing-world-model-reasoning-for-multi-turn-vlm-agents",
+      "title": "VAGEN: Reinforcing World Model Reasoning for Multi-Turn VLM Agents",
+      "venue": "NeurIPS25",
+      "year": 2025,
+      "date": "2025-10-19",
+      "link": "https://arxiv.org/abs/2510.16907",
+      "code": "https://github.com/mll-lab-nu/VAGEN",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Method",
+        "benchmark_type": null,
+        "storage": [
+          "Internal"
+        ],
+        "learning": [
+          "RL-based"
+        ],
+        "memory_type": [
+          "Episodic",
+          "Multimodal"
+        ]
+      }
+    },
+    {
+      "id": "vismem-latent-vision-memory-unlocks-potential-of-vision-language-models",
+      "title": "VisMem: Latent Vision Memory Unlocks Potential of Vision-Language Models",
+      "venue": "",
+      "year": 2025,
+      "date": "2025-11-14",
+      "link": "https://arxiv.org/abs/2511.11007",
+      "code": "",
+      "notes": "",
+      "authors": "Dawn Song",
+      "tags": {
+        "category": "Method",
+        "benchmark_type": null,
+        "storage": [
+          "Internal"
+        ],
+        "learning": [
+          "SFT"
+        ],
+        "memory_type": [
+          "Multimodal"
+        ]
+      }
+    },
+    {
+      "id": "longvt-incentivizing-thinking-with-long-videos-via-native-tool-calling",
+      "title": "LongVT: Incentivizing \"Thinking with Long Videos\" via Native Tool Calling",
+      "venue": "CVPR26",
+      "year": 2025,
+      "date": "2025-11-25",
+      "link": "https://arxiv.org/abs/2511.20785",
+      "code": "",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Method",
+        "benchmark_type": null,
+        "storage": [
+          "External"
+        ],
+        "learning": [
+          "Prompt-based"
+        ],
+        "memory_type": [
+          "Multimodal",
+          "Procedural"
+        ]
+      }
+    },
+    {
+      "id": "vilomem-agentic-learner-with-grow-and-refine-multimodal-semantic-memory",
+      "title": "ViLoMem: Agentic Learner with Grow-and-Refine Multimodal Semantic Memory",
+      "venue": "CVPR26",
+      "year": 2025,
+      "date": "2025-11-26",
+      "link": "https://arxiv.org/abs/2511.21678",
+      "code": "https://github.com/weihao-bo/ViLoMem/tree/main",
+      "notes": "Visual Memory",
+      "authors": "",
+      "tags": {
+        "category": "Method",
+        "benchmark_type": null,
+        "storage": [
+          "External"
+        ],
+        "learning": [],
+        "memory_type": [
+          "Multimodal",
+          "Semantic"
+        ]
+      }
+    },
+    {
+      "id": "measuring-agents-in-production",
+      "title": "Measuring Agents in Production",
+      "venue": "",
+      "year": 2025,
+      "date": "2025-12-02",
+      "link": "https://arxiv.org/abs/2512.04123",
+      "code": "",
+      "notes": "",
+      "authors": "Shuicheng Yan, Guibin Zhang",
+      "tags": {
+        "category": "Survey",
+        "benchmark_type": null,
+        "storage": [],
+        "learning": [],
+        "memory_type": []
+      }
+    },
+    {
+      "id": "memverse-multimodal-memory-for-lifelong-learning-agents",
+      "title": "MemVerse: Multimodal Memory for Lifelong Learning Agents",
+      "venue": "",
+      "year": 2025,
+      "date": "2025-12-03",
+      "link": "https://arxiv.org/abs/2512.03627",
+      "code": "https://github.com/KnowledgeXLab/MemVerse",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Method",
+        "benchmark_type": null,
+        "storage": [
+          "External"
+        ],
+        "learning": [
+          "Prompt-based"
+        ],
+        "memory_type": [
+          "Episodic",
+          "Multimodal",
+          "Procedural",
+          "Semantic"
+        ]
+      }
+    },
+    {
+      "id": "hindsight-is-20-20-building-agent-memory-that-retains-recalls-and-reflects",
+      "title": "Hindsight is 20/20: Building Agent Memory that Retains, Recalls, and Reflects",
+      "venue": "",
+      "year": 2025,
+      "date": "2025-12-14",
+      "link": "https://arxiv.org/abs/2512.12818v1",
+      "code": "",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Method",
+        "benchmark_type": null,
+        "storage": [
+          "External"
+        ],
+        "learning": [
+          "Prompt-based"
+        ],
+        "memory_type": [
+          "Episodic",
+          "Semantic"
+        ]
+      }
+    },
+    {
+      "id": "memory-in-the-age-of-ai-agents",
+      "title": "Memory in the Age of AI Agents",
+      "venue": "",
+      "year": 2025,
+      "date": "2025-12-15",
+      "link": "https://arxiv.org/abs/2512.13564",
+      "code": "https://github.com/Shichun-Liu/Agent-Memory-Paper-List",
+      "notes": "",
+      "authors": "Shuicheng Yan, Guibin Zhang",
+      "tags": {
+        "category": "Survey",
+        "benchmark_type": null,
+        "storage": [],
+        "learning": [],
+        "memory_type": []
+      }
+    },
+    {
+      "id": "qwenlong-l1-5-post-training-recipe-for-long-context-reasoning-and-memory-managem",
+      "title": "QwenLong-L1.5: Post-Training Recipe for Long-Context Reasoning and Memory Management",
+      "venue": "",
+      "year": 2025,
+      "date": "2025-12-25",
+      "link": "https://arxiv.org/abs/2512.12967v1",
+      "code": "",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Method",
+        "benchmark_type": null,
+        "storage": [
+          "Internal"
+        ],
+        "learning": [
+          "SFT"
+        ],
+        "memory_type": []
+      }
+    },
+    {
+      "id": "ai-meets-brain-memory-systems-from-cognitive-neuroscience-to-autonomous-agents",
+      "title": "AI Meets Brain: Memory Systems from Cognitive Neuroscience to Autonomous Agents",
+      "venue": "",
+      "year": 2025,
+      "date": "2025-12-29",
+      "link": "https://arxiv.org/abs/2512.23343",
+      "code": "https://github.com/AgentMemory/Huaman-Agent-Memory",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Survey",
+        "benchmark_type": null,
+        "storage": [],
+        "learning": [],
+        "memory_type": []
+      }
+    },
+    {
+      "id": "simplemem-efficient-lifelong-memory-for-llm-agents",
+      "title": "SimpleMem: Efficient Lifelong Memory for LLM Agents",
+      "venue": "",
+      "year": 2026,
+      "date": "2026-01-05",
+      "link": "https://arxiv.org/abs/2601.02553",
+      "code": "",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Method",
+        "benchmark_type": null,
+        "storage": [
+          "External"
+        ],
+        "learning": [
+          "Prompt-based"
+        ],
+        "memory_type": [
+          "Episodic",
+          "Semantic"
+        ]
+      }
+    },
+    {
+      "id": "mem-gallery-benchmarking-multimodal-long-term-conversational-memory-for-mllm-age",
+      "title": "Mem-Gallery: Benchmarking Multimodal Long-Term Conversational Memory for MLLM Agents",
+      "venue": "",
+      "year": 2026,
+      "date": "2026-01-07",
+      "link": "https://arxiv.org/abs/2601.03515",
+      "code": "",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Benchmark",
+        "benchmark_type": "QA",
+        "storage": [],
+        "learning": [],
+        "memory_type": []
+      }
+    },
+    {
+      "id": "knowme-bench-benchmarking-person-understanding-for-lifelong-digital-companion",
+      "title": "KnowMe-Bench: Benchmarking Person Understanding for Lifelong Digital Companion",
+      "venue": "",
+      "year": 2026,
+      "date": "2026-01-08",
+      "link": "",
+      "code": "",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Benchmark",
+        "benchmark_type": "Long-Horizon",
+        "storage": [],
+        "learning": [],
+        "memory_type": []
+      }
+    },
+    {
+      "id": "rethinking-memory-mechanisms-of-foundation-agents-in-the-second-half",
+      "title": "Rethinking Memory Mechanisms of Foundation Agents in the Second Half",
+      "venue": "",
+      "year": 2026,
+      "date": "2026-01-14",
+      "link": "https://arxiv.org/abs/2602.06052",
+      "code": "",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Method",
+        "benchmark_type": null,
+        "storage": [
+          "External"
+        ],
+        "learning": [
+          "Prompt-based"
+        ],
+        "memory_type": [
+          "Episodic",
+          "Semantic"
+        ]
+      }
+    },
+    {
+      "id": "cast-character-and-scene-episodic-memory-for-agents",
+      "title": "CAST: Character-and-Scene Episodic Memory for Agents",
+      "venue": "",
+      "year": 2026,
+      "date": "2026-01-14",
+      "link": "",
+      "code": "",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Method",
+        "benchmark_type": null,
+        "storage": [
+          "External"
+        ],
+        "learning": [
+          "Prompt-based"
+        ],
+        "memory_type": [
+          "Episodic"
+        ]
+      }
+    },
+    {
+      "id": "agentic-reasoning-for-large-language-models",
+      "title": "Agentic Reasoning for Large Language Models",
+      "venue": "",
+      "year": 2026,
+      "date": "2026-01-18",
+      "link": "https://arxiv.org/abs/2601.12538",
+      "code": "",
+      "notes": "",
+      "authors": "Heng Ji",
+      "tags": {
+        "category": "Method",
+        "benchmark_type": null,
+        "storage": [],
+        "learning": [
+          "Prompt-based",
+          "Training-free"
+        ],
+        "memory_type": []
+      }
+    },
+    {
+      "id": "longhorizonui-a-unified-framework-for-robust-long-horizon-task-automation-of-gui",
+      "title": "LongHorizonUI: A Unified Framework for Robust long-horizon Task Automation of GUI Agent",
+      "venue": "ICLR26",
+      "year": 2026,
+      "date": "2026-01-26",
+      "link": "https://openreview.net/forum?id=BK7Mk5d4WE",
+      "code": "",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Benchmark",
+        "benchmark_type": "GUI",
+        "storage": [],
+        "learning": [],
+        "memory_type": []
+      }
+    },
+    {
+      "id": "memocr-layout-aware-visual-memory-for-efficient-long-horizon-reasoning",
+      "title": "MemOCR: Layout-Aware Visual Memory for Efficient Long-Horizon Reasoning",
+      "venue": "",
+      "year": 2026,
+      "date": "2026-01-26",
+      "link": "https://arxiv.org/abs/2601.21468",
+      "code": "",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Method",
+        "benchmark_type": null,
+        "storage": [
+          "External"
+        ],
+        "learning": [
+          "Prompt-based"
+        ],
+        "memory_type": [
+          "Episodic",
+          "Multimodal"
+        ]
+      }
+    },
+    {
+      "id": "dep-search-learning-dependency-aware-reasoning-traces-with-persistent-memory",
+      "title": "Dep-Search: Learning Dependency-Aware Reasoning Traces with Persistent Memory",
+      "venue": "",
+      "year": 2026,
+      "date": "2026-01-27",
+      "link": "https://arxiv.org/abs/2601.18771",
+      "code": "",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Method",
+        "benchmark_type": null,
+        "storage": [
+          "External"
+        ],
+        "learning": [
+          "Prompt-based"
+        ],
+        "memory_type": [
+          "Episodic"
+        ]
+      }
+    },
+    {
+      "id": "visual-generation-unlocks-human-like-reasoning-through-multimodal-world-models",
+      "title": "Visual Generation Unlocks Human-Like Reasoning through Multimodal World Models",
+      "venue": "",
+      "year": 2026,
+      "date": "2026-01-27",
+      "link": "https://arxiv.org/abs/2601.19834",
+      "code": "",
+      "notes": "",
+      "authors": "Mingsheng Long  Bytedance Seed",
+      "tags": {
+        "category": "Method",
+        "benchmark_type": null,
+        "storage": [
+          "Internal"
+        ],
+        "learning": [
+          "SFT"
+        ],
+        "memory_type": [
+          "Multimodal"
+        ]
+      }
+    },
+    {
+      "id": "os-marathon-benchmarking-computer-use-agents-on-long-horizon-repetitive-tasks",
+      "title": "OS-Marathon: Benchmarking Computer-Use Agents on Long-Horizon Repetitive Tasks",
+      "venue": "",
+      "year": 2026,
+      "date": "2026-01-28",
+      "link": "https://arxiv.org/abs/2601.20650",
+      "code": "",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Benchmark",
+        "benchmark_type": "GUI",
+        "storage": [],
+        "learning": [],
+        "memory_type": []
+      }
+    },
+    {
+      "id": "mentisoculi-revealing-the-limits-of-reasoning-with-mental-imagery",
+      "title": "MentisOculi: Revealing the Limits of Reasoning with Mental Imagery",
+      "venue": "",
+      "year": 2026,
+      "date": "2026-02-02",
+      "link": "https://arxiv.org/abs/2602.02465",
+      "code": "",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Benchmark",
+        "benchmark_type": "Embodied",
+        "storage": [],
+        "learning": [],
+        "memory_type": []
+      }
+    },
+    {
+      "id": "memskill-learning-and-evolving-memory-skills-for-self-evolving-agents",
+      "title": "MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents",
+      "venue": "",
+      "year": 2026,
+      "date": "2026-02-02",
+      "link": "https://arxiv.org/abs/2602.02474",
+      "code": "",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Method",
+        "benchmark_type": null,
+        "storage": [
+          "External"
+        ],
+        "learning": [
+          "RL-based"
+        ],
+        "memory_type": [
+          "Procedural"
+        ]
+      }
+    },
+    {
+      "id": "memgui-bench-benchmarking-memory-of-mobile-gui-agents-in-dynamic-environments",
+      "title": "MemGUI-Bench: Benchmarking Memory of Mobile GUI Agents in Dynamic Environments",
+      "venue": "",
+      "year": 2026,
+      "date": "2026-02-03",
+      "link": "https://arxiv.org/abs/2602.06075",
+      "code": "https://github.com/lgy0404/MemGUI-Bench",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Benchmark",
+        "benchmark_type": "GUI",
+        "storage": [],
+        "learning": [],
+        "memory_type": []
+      }
+    },
+    {
+      "id": "learning-to-continually-learn-via-meta-learning-agentic-memory-designs",
+      "title": "Learning to Continually Learn via Meta-learning Agentic Memory Designs",
+      "venue": "",
+      "year": 2026,
+      "date": "2026-02-08",
+      "link": "https://arxiv.org/abs/2602.07755",
+      "code": "https://github.com/zksha/alma",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Method",
+        "benchmark_type": null,
+        "storage": [
+          "External"
+        ],
+        "learning": [
+          "RL-based"
+        ],
+        "memory_type": [
+          "Episodic"
+        ]
+      }
+    },
+    {
+      "id": "tracemem-weaving-narrative-memory-schemata-from-user-conversational-traces",
+      "title": "TraceMem: Weaving Narrative Memory Schemata from User Conversational Traces",
+      "venue": "",
+      "year": 2026,
+      "date": "2026-02-10",
+      "link": "https://arxiv.org/abs/2602.09712",
+      "code": "",
+      "notes": "",
+      "authors": "HKU",
+      "tags": {
+        "category": "Method",
+        "benchmark_type": null,
+        "storage": [
+          "External"
+        ],
+        "learning": [
+          "Prompt-based"
+        ],
+        "memory_type": [
+          "Episodic",
+          "Semantic"
+        ]
+      }
+    },
+    {
+      "id": "when-to-memorize-and-when-to-stop-gated-recurrent-memory-for-long-context-reason",
+      "title": "When to Memorize and When to Stop: Gated Recurrent Memory for Long-Context Reasoning",
+      "venue": "",
+      "year": 2026,
+      "date": "2026-02-11",
+      "link": "https://arxiv.org/abs/2602.10560",
+      "code": "",
+      "notes": "",
+      "authors": "Bytedance Seed",
+      "tags": {
+        "category": "Method",
+        "benchmark_type": null,
+        "storage": [
+          "Internal"
+        ],
+        "learning": [
+          "SFT"
+        ],
+        "memory_type": []
+      }
+    },
+    {
+      "id": "memoryarena-benchmarking-agent-memory-in-interdependent-multi-session-agentic-ta",
+      "title": "MemoryArena: Benchmarking Agent Memory in Interdependent Multi-Session Agentic Tasks",
+      "venue": "",
+      "year": 2026,
+      "date": "2026-02-12",
+      "link": "https://arxiv.org/abs/2602.16313",
+      "code": "",
+      "notes": "",
+      "authors": "Yu Wang, Yuanzhe Hu",
+      "tags": {
+        "category": "Benchmark",
+        "benchmark_type": "Long-Horizon",
+        "storage": [],
+        "learning": [],
+        "memory_type": []
+      }
+    },
+    {
+      "id": "remem-reasoning-with-episodic-memory-in-language-agent",
+      "title": "REMem: Reasoning with Episodic Memory in Language Agent",
+      "venue": "",
+      "year": 2026,
+      "date": "2026-02-13",
+      "link": "https://arxiv.org/abs/2602.13530",
+      "code": "",
+      "notes": "",
+      "authors": "Yu Su, Huan Sun",
+      "tags": {
+        "category": "Method",
+        "benchmark_type": null,
+        "storage": [
+          "External"
+        ],
+        "learning": [
+          "Prompt-based"
+        ],
+        "memory_type": [
+          "Episodic"
+        ]
+      }
+    },
+    {
+      "id": "plan-mcts-plan-exploration-for-action-exploitation-in-web-navigation",
+      "title": "Plan-MCTS: Plan Exploration for Action Exploitation in Web Navigation",
+      "venue": "",
+      "year": 2026,
+      "date": "2026-02-15",
+      "link": "https://arxiv.org/abs/2602.14083",
+      "code": "",
+      "notes": "long-horizon reasoning, web navigation",
+      "authors": "Weinan Zhang",
+      "tags": {
+        "category": "Method",
+        "benchmark_type": null,
+        "storage": [],
+        "learning": [
+          "RL-based"
+        ],
+        "memory_type": [
+          "Procedural"
+        ]
+      }
+    },
+    {
+      "id": "modeling-distinct-human-interaction-in-web-agents",
+      "title": "Modeling Distinct Human Interaction in Web Agents",
+      "venue": "",
+      "year": 2026,
+      "date": "2026-02-19",
+      "link": "https://arxiv.org/abs/2602.17588",
+      "code": "",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Method",
+        "benchmark_type": null,
+        "storage": [
+          "External"
+        ],
+        "learning": [
+          "Prompt-based"
+        ],
+        "memory_type": [
+          "Episodic"
+        ]
+      }
+    },
+    {
+      "id": "plugmem-a-task-agnostic-plugin-memory-module-for-llm-agents",
+      "title": "PlugMem: A Task-Agnostic Plugin Memory Module for LLM Agents",
+      "venue": "",
+      "year": 2026,
+      "date": "2026-02-23",
+      "link": "https://arxiv.org/abs/2603.03296",
+      "code": "https://github.com/TIMAN-group/PlugMem",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Method",
+        "benchmark_type": null,
+        "storage": [
+          "External"
+        ],
+        "learning": [
+          "Prompt-based",
+          "Training-free"
+        ],
+        "memory_type": [
+          "Episodic",
+          "Semantic"
+        ]
+      }
+    },
+    {
+      "id": "agentvista-evaluating-multimodal-agents-in-ultra-challenging-realistic-visual-sc",
+      "title": "AGENTVISTA: Evaluating Multimodal Agents in Ultra-Challenging Realistic Visual Scenarios",
+      "venue": "",
+      "year": 2026,
+      "date": "2026-02-26",
+      "link": "",
+      "code": "",
+      "notes": "",
+      "authors": "Junxian He, May Fung",
+      "tags": {
+        "category": "Benchmark",
+        "benchmark_type": "Embodied",
+        "storage": [],
+        "learning": [],
+        "memory_type": []
+      }
+    },
+    {
+      "id": "ama-bench-evaluating-long-horizon-memory-for-agentic-applications",
+      "title": "AMA-Bench: Evaluating Long-Horizon Memory for Agentic Applications",
+      "venue": "",
+      "year": 2026,
+      "date": "2026-02-26",
+      "link": "",
+      "code": "",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Benchmark",
+        "benchmark_type": "Long-Horizon",
+        "storage": [],
+        "learning": [],
+        "memory_type": []
+      }
+    },
+    {
+      "id": "a-subgoal-driven-framework-for-improving-long-horizon-llm-agents",
+      "title": "A Subgoal-driven Framework for Improving Long-Horizon LLM Agents",
+      "venue": "",
+      "year": 2026,
+      "date": "2026-03-20",
+      "link": "https://arxiv.org/abs/2603.19685",
+      "code": "",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Method",
+        "benchmark_type": null,
+        "storage": [
+          "External"
+        ],
+        "learning": [
+          "Prompt-based",
+          "Training-free"
+        ],
+        "memory_type": [
+          "Episodic",
+          "Procedural"
+        ]
+      }
+    },
+    {
+      "id": "omni-simplemem-autoresearch-guided-discovery-of-lifelong-multimodal-agent-memory",
+      "title": "Omni-SimpleMem: Autoresearch-Guided Discovery of Lifelong Multimodal Agent Memory",
+      "venue": "",
+      "year": 2026,
+      "date": "2026-04-01",
+      "link": "https://arxiv.org/abs/2604.01007",
+      "code": "",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Method",
+        "benchmark_type": null,
+        "storage": [
+          "External"
+        ],
+        "learning": [
+          "Prompt-based"
+        ],
+        "memory_type": [
+          "Episodic",
+          "Multimodal",
+          "Procedural",
+          "Semantic"
+        ]
+      }
+    },
+    {
+      "id": "gym-anything-turn-any-software-into-an-agent-environment",
+      "title": "Gym-Anything: Turn any Software into an Agent Environment",
+      "venue": "",
+      "year": 2026,
+      "date": "2026-04-07",
+      "link": "https://arxiv.org/abs/2604.06126",
+      "code": "",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Benchmark",
+        "benchmark_type": "GUI",
+        "storage": [],
+        "learning": [],
+        "memory_type": []
+      }
+    }
+  ]
+}

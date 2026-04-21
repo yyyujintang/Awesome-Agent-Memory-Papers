@@ -1,0 +1,12 @@
+# Keep the repo surface minimal: only README + docs/ (the deployed site) are tracked.
+# Working files (CSV, data/, scripts/) stay local.
+/AI Agents - Agent Memory.csv
+/data/
+/scripts/
+
+# editor / OS
+.DS_Store
+.vscode/
+.idea/
+__pycache__/
+*.pyc
