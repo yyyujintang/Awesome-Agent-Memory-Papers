@@ -55,24 +55,6 @@
       }
     },
     {
-      "id": "dual-coding-of-knowledge-in-the-human-brain",
-      "title": "Dual coding of knowledge in the human brain",
-      "venue": "",
-      "year": 2021,
-      "date": "2021-09-08",
-      "link": "https://www.sciencedirect.com/science/article/pii/S1364661321001765",
-      "code": "",
-      "notes": "",
-      "authors": "",
-      "tags": {
-        "category": "Survey",
-        "benchmark_type": null,
-        "storage": [],
-        "learning": [],
-        "memory_type": []
-      }
-    },
-    {
       "id": "webshop-towards-scalable-real-world-web-interaction-with-grounded-language-agent",
       "title": "WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents",
       "venue": "NeurIPS22",

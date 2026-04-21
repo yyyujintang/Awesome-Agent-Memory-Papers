@@ -2,7 +2,7 @@
 
 A curated list of papers on **memory for LLM / multimodal agents** — methods, benchmarks, and surveys — covering episodic, semantic, procedural, and multimodal memory, with both parametric (internal) and retrieval-based (external) storage, learned via prompting, supervised finetuning, or reinforcement learning.
 
-**88 papers** · 6 surveys · 31 benchmarks · 51 methods
+**87 papers** · 5 surveys · 31 benchmarks · 51 methods
 
 Interactive dashboard with multi-tag filtering: **<https://yyyujintang.github.io/Awesome-Agent-Memory-Papers/>**
 
@@ -43,9 +43,6 @@ Interactive dashboard with multi-tag filtering: **<https://yyyujintang.github.io
   `Survey`
 - [Episodic memory in AI agents poses risks that should be studied and mitigate](https://arxiv.org/abs/2501.11739)  
   *2025-01-20*  
-  `Survey`
-- [Dual coding of knowledge in the human brain](https://www.sciencedirect.com/science/article/pii/S1364661321001765)  
-  *2021-09-08*  
   `Survey`
 
 ## Benchmarks
