@@ -200,7 +200,7 @@
       "venue": "",
       "year": 2024,
       "date": "2024-02-27",
-      "link": "",
+      "link": "https://arxiv.org/abs/2402.17753",
       "code": "",
       "notes": "",
       "authors": "",
@@ -225,6 +225,24 @@
       "tags": {
         "category": "Benchmark",
         "benchmark_type": "GUI",
+        "storage": [],
+        "learning": [],
+        "memory_type": []
+      }
+    },
+    {
+      "id": "a-survey-on-the-memory-mechanism-of-large-language-model-based-agents",
+      "title": "A Survey on the Memory Mechanism of Large Language Model based Agents",
+      "venue": "",
+      "year": 2024,
+      "date": "2024-04-21",
+      "link": "https://arxiv.org/abs/2404.13501",
+      "code": "",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Survey",
+        "benchmark_type": null,
         "storage": [],
         "learning": [],
         "memory_type": []
@@ -1368,20 +1386,13 @@
       "link": "https://arxiv.org/abs/2602.06052",
       "code": "",
       "notes": "",
-      "authors": "",
+      "authors": "Jiawei Han, Philip Yu",
       "tags": {
-        "category": "Method",
+        "category": "Survey",
         "benchmark_type": null,
-        "storage": [
-          "External"
-        ],
-        "learning": [
-          "Prompt-based"
-        ],
-        "memory_type": [
-          "Episodic",
-          "Semantic"
-        ]
+        "storage": [],
+        "learning": [],
+        "memory_type": []
       }
     },
     {

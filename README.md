@@ -1,8 +1,10 @@
 # Awesome Agent Memory Papers
 
+[![Stars](https://img.shields.io/github/stars/yyyujintang/Awesome-Agent-Memory-Papers?style=social)](https://github.com/yyyujintang/Awesome-Agent-Memory-Papers/stargazers) ![Last updated](https://img.shields.io/badge/last%20updated-2026--04--07-blue) ![Papers](https://img.shields.io/badge/papers-88-success)
+
 A curated list of papers on **memory for LLM / multimodal agents** — methods, benchmarks, and surveys — covering episodic, semantic, procedural, and multimodal memory, with both parametric (internal) and retrieval-based (external) storage, learned via prompting, supervised finetuning, or reinforcement learning.
 
-**87 papers** · 5 surveys · 31 benchmarks · 51 methods
+**88 papers** · 7 surveys · 31 benchmarks · 50 methods · last updated **2026-04-07**
 
 Interactive dashboard with multi-tag filtering: **<https://yyyujintang.github.io/Awesome-Agent-Memory-Papers/>**
 
@@ -21,7 +23,7 @@ Interactive dashboard with multi-tag filtering: **<https://yyyujintang.github.io
 - [Methods](#methods)
   - [Multimodal Memory](#multimodal-memory) (16)
   - [Procedural Memory](#procedural-memory) (10)
-  - [Episodic Memory](#episodic-memory) (17)
+  - [Episodic Memory](#episodic-memory) (16)
   - [Semantic Memory](#semantic-memory) (2)
   - [Internal / Parametric Memory](#internal-parametric-memory) (4)
   - [Other Methods](#other-methods) (2)
@@ -29,6 +31,9 @@ Interactive dashboard with multi-tag filtering: **<https://yyyujintang.github.io
 
 ## Surveys
 
+- [Rethinking Memory Mechanisms of Foundation Agents in the Second Half](https://arxiv.org/abs/2602.06052)  
+  *2026-01-14* · Jiawei Han, Philip Yu  
+  `Survey`
 - [AI Meets Brain: Memory Systems from Cognitive Neuroscience to Autonomous Agents](https://arxiv.org/abs/2512.23343)  
   *2025-12-29* · [[code]](https://github.com/AgentMemory/Huaman-Agent-Memory)  
   `Survey`
@@ -43,6 +48,9 @@ Interactive dashboard with multi-tag filtering: **<https://yyyujintang.github.io
   `Survey`
 - [Episodic memory in AI agents poses risks that should be studied and mitigate](https://arxiv.org/abs/2501.11739)  
   *2025-01-20*  
+  `Survey`
+- [A Survey on the Memory Mechanism of Large Language Model based Agents](https://arxiv.org/abs/2404.13501)  
+  *2024-04-21*  
   `Survey`
 
 ## Benchmarks
@@ -63,7 +71,7 @@ Evaluation suites for agent memory, split by interaction mode.
 - [LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory](https://arxiv.org/abs/2410.10813)  
   *2024-10-14*  
   `Benchmark` `QA`
-- (LoCoMo) Evaluating Very Long-Term Conversational Memory of LLM Agents  
+- [(LoCoMo) Evaluating Very Long-Term Conversational Memory of LLM Agents](https://arxiv.org/abs/2402.17753)  
   *2024-02-27*  
   `Benchmark` `QA`
 
@@ -265,9 +273,6 @@ Each paper is placed in exactly **one** primary section (Multimodal > Procedural
 - [Dep-Search: Learning Dependency-Aware Reasoning Traces with Persistent Memory](https://arxiv.org/abs/2601.18771)  
   *2026-01-27*  
   `Method` `External` `Prompt-based` `Episodic`
-- [Rethinking Memory Mechanisms of Foundation Agents in the Second Half](https://arxiv.org/abs/2602.06052)  
-  *2026-01-14*  
-  `Method` `External` `Prompt-based` `Episodic` `Semantic`
 - CAST: Character-and-Scene Episodic Memory for Agents  
   *2026-01-14*  
   `Method` `External` `Prompt-based` `Episodic`
