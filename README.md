@@ -182,7 +182,7 @@ Each paper is placed in exactly **one** primary section (Multimodal > Procedural
   *2025-11-25* · **CVPR26**  
   `Method` `External` `Prompt-based` `Multimodal` `Procedural`
 - [VisMem: Latent Vision Memory Unlocks Potential of Vision-Language Models](https://arxiv.org/abs/2511.11007)  
-  *2025-11-14* · Dawn Song  
+  *2025-11-14* · Shuicheng Yan  
   `Method` `Internal` `SFT` `Multimodal`
 - [VAGEN: Reinforcing World Model Reasoning for Multi-Turn VLM Agents](https://arxiv.org/abs/2510.16907)  
   *2025-10-19* · **NeurIPS25** · [[code]](https://github.com/mll-lab-nu/VAGEN)  
