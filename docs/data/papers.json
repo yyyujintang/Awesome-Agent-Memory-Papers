@@ -1900,6 +1900,56 @@
         "learning": [],
         "memory_type": []
       }
+    },
+    {
+      "id": "higmem-a-hierarchical-and-llm-guided-memory-system-for-long-term-conversational-",
+      "title": "HiGMem: A Hierarchical and LLM-Guided Memory System for Long-Term Conversational Agents",
+      "venue": "",
+      "year": 2026,
+      "date": "2026-04-20",
+      "link": "https://arxiv.org/abs/2604.18349",
+      "code": "",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Method",
+        "benchmark_type": null,
+        "storage": [
+          "External"
+        ],
+        "learning": [
+          "Prompt-based",
+          "Training-free"
+        ],
+        "memory_type": [
+          "Episodic",
+          "Semantic"
+        ]
+      }
+    },
+    {
+      "id": "gated-memory-policy",
+      "title": "Gated Memory Policy",
+      "venue": "",
+      "year": 2026,
+      "date": "2026-04-21",
+      "link": "https://arxiv.org/abs/2604.18933",
+      "code": "",
+      "notes": "",
+      "authors": "Shuran Song",
+      "tags": {
+        "category": "Method",
+        "benchmark_type": null,
+        "storage": [
+          "Internal"
+        ],
+        "learning": [
+          "RL-based"
+        ],
+        "memory_type": [
+          "Episodic"
+        ]
+      }
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Awesome Agent Memory Papers
 
-[![Stars](https://img.shields.io/github/stars/yyyujintang/Awesome-Agent-Memory-Papers?style=social)](https://github.com/yyyujintang/Awesome-Agent-Memory-Papers/stargazers) ![Last updated](https://img.shields.io/badge/last%20updated-2026--04--21-blue) ![Papers](https://img.shields.io/badge/papers-88-success)
+[![Stars](https://img.shields.io/github/stars/yyyujintang/Awesome-Agent-Memory-Papers?style=social)](https://github.com/yyyujintang/Awesome-Agent-Memory-Papers/stargazers) ![Last updated](https://img.shields.io/badge/last%20updated-2026--04--21-blue) ![Papers](https://img.shields.io/badge/papers-90-success)
 
 A curated list of papers on **memory for LLM / multimodal agents** — methods, benchmarks, and surveys — covering episodic, semantic, procedural, and multimodal memory, with both parametric (internal) and retrieval-based (external) storage, learned via prompting, supervised finetuning, or reinforcement learning.
 
-**88 papers** · 7 surveys · 31 benchmarks · 50 methods · last updated **2026-04-21**
+**90 papers** · 7 surveys · 31 benchmarks · 52 methods · last updated **2026-04-21**
 
 Interactive dashboard with multi-tag filtering: **<https://yyyujintang.github.io/Awesome-Agent-Memory-Papers/>**
 
@@ -23,7 +23,7 @@ Interactive dashboard with multi-tag filtering: **<https://yyyujintang.github.io
 - [Methods](#methods)
   - [Multimodal Memory](#multimodal-memory) (16)
   - [Procedural Memory](#procedural-memory) (10)
-  - [Episodic Memory](#episodic-memory) (16)
+  - [Episodic Memory](#episodic-memory) (18)
   - [Semantic Memory](#semantic-memory) (2)
   - [Internal / Parametric Memory](#internal-parametric-memory) (4)
   - [Other Methods](#other-methods) (2)
@@ -255,6 +255,12 @@ Each paper is placed in exactly **one** primary section (Multimodal > Procedural
 
 ### Episodic Memory
 
+- [Gated Memory Policy](https://arxiv.org/abs/2604.18933)  
+  *2026-04-21* · Shuran Song  
+  `Method` `Internal` `RL-based` `Episodic`
+- [HiGMem: A Hierarchical and LLM-Guided Memory System for Long-Term Conversational Agents](https://arxiv.org/abs/2604.18349)  
+  *2026-04-20*  
+  `Method` `External` `Prompt-based` `Training-free` `Episodic` `Semantic`
 - [PlugMem: A Task-Agnostic Plugin Memory Module for LLM Agents](https://arxiv.org/abs/2603.03296)  
   *2026-02-23* · [[code]](https://github.com/TIMAN-group/PlugMem)  
   `Method` `External` `Prompt-based` `Training-free` `Episodic` `Semantic`

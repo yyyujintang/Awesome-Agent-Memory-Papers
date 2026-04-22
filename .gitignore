@@ -4,6 +4,10 @@
 /data/
 /scripts/
 
+# secrets
+.env
+.env.*
+
 # editor / OS
 .DS_Store
 .vscode/
