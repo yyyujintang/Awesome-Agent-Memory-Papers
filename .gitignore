@@ -1,8 +1,9 @@
 # Keep the repo surface minimal: only README + docs/ (the deployed site) are tracked.
-# Working files (CSV, data/, scripts/) stay local.
+# Working files (CSV, data/, scripts/, jenny_blog clone) stay local.
 /AI Agents - Agent Memory.csv
 /data/
 /scripts/
+/jenny_blog/
 
 # secrets
 .env

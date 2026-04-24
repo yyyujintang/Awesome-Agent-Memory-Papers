@@ -297,13 +297,15 @@ function cardFor(p) {
   el.appendChild(tagRow);
 
   // Action links.
-  if (p.link || p.code) {
+  if (p.link || p.code || p.blog_url) {
     const act = document.createElement("div");
     act.className = "actions";
     if (p.link)
       act.insertAdjacentHTML("beforeend", `<a href="${p.link}" target="_blank" rel="noopener">Paper</a>`);
     if (p.code)
       act.insertAdjacentHTML("beforeend", `<a href="${p.code}" target="_blank" rel="noopener">Code</a>`);
+    if (p.blog_url)
+      act.insertAdjacentHTML("beforeend", `<a class="blog-link" href="${p.blog_url}" target="_blank" rel="noopener">Blog</a>`);
     el.appendChild(act);
   }
   return el;

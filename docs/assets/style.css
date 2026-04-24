@@ -333,6 +333,14 @@ code {
   color: var(--accent);
   text-decoration: none;
 }
+.card .actions a.blog-link {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+.card .actions a.blog-link:hover {
+  background: var(--accent);
+  color: #fff;
+}
 
 /* ---------- empty state & footer ---------- */
 .empty {

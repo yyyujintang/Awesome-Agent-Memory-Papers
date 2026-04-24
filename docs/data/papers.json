@@ -504,7 +504,8 @@
         "memory_type": [
           "Semantic"
         ]
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/from-rag-to-memory-non-parametric-continual-learning-for-large-language-models-h"
     },
     {
       "id": "r3mem-bridging-memory-retention-and-retrieval-via-reversible-compressio-n",
