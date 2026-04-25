@@ -16,7 +16,8 @@
         "storage": [],
         "learning": [],
         "memory_type": []
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/textworld-a-learning-environment-for-text-based-game"
     },
     {
       "id": "alfred-a-benchmark-for-interpreting-grounded-instructions-for-everyday-tasks",
@@ -34,7 +35,8 @@
         "storage": [],
         "learning": [],
         "memory_type": []
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/alfred-a-benchmark-for-interpreting-grounded-instructions-for-everyday-tasks"
     },
     {
       "id": "alfworld-aligning-text-and-embodied-environments-for-interactive-learning",
@@ -52,7 +54,8 @@
         "storage": [],
         "learning": [],
         "memory_type": []
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/alfworld-aligning-text-and-embodied-environments-for-interactive-learning"
     },
     {
       "id": "webshop-towards-scalable-real-world-web-interaction-with-grounded-language-agent",
@@ -70,7 +73,8 @@
         "storage": [],
         "learning": [],
         "memory_type": []
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/webshop-towards-scalable-real-world-web-interaction-with-grounded-language-agent"
     },
     {
       "id": "memorybank-enhancing-large-language-models-with-long-term-memory",
@@ -95,7 +99,8 @@
           "Episodic",
           "Semantic"
         ]
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/memorybank-enhancing-large-language-models-with-long-term-memory"
     },
     {
       "id": "mind2web-towards-a-generalist-agent-for-the-web",
@@ -113,7 +118,8 @@
         "storage": [],
         "learning": [],
         "memory_type": []
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/mind2web-towards-a-generalist-agent-for-the-web"
     },
     {
       "id": "synapse-trajectory-as-exemplar-prompting-with-memory-for-computer-control",
@@ -138,7 +144,8 @@
           "Episodic",
           "Procedural"
         ]
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/synapse-trajectory-as-exemplar-prompting-with-memory-for-computer-control"
     },
     {
       "id": "webarena-a-realistic-web-environment-for-building-autonomous-agents",
@@ -156,7 +163,8 @@
         "storage": [],
         "learning": [],
         "memory_type": []
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/webarena-a-realistic-web-environment-for-building-autonomous-agents"
     },
     {
       "id": "agentbench-evaluating-llms-as-agents",
@@ -174,7 +182,8 @@
         "storage": [],
         "learning": [],
         "memory_type": []
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/agentbench-evaluating-llms-as-agents"
     },
     {
       "id": "visualwebarena-evaluating-multimodal-agents-on-realistic-visual-web-tasks",
@@ -192,7 +201,8 @@
         "storage": [],
         "learning": [],
         "memory_type": []
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/visualwebarena-evaluating-multimodal-agents-on-realistic-visual-web-tasks"
     },
     {
       "id": "locomo-evaluating-very-long-term-conversational-memory-of-llm-agents",
@@ -210,7 +220,8 @@
         "storage": [],
         "learning": [],
         "memory_type": []
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/locomo-evaluating-very-long-term-conversational-memory-of-llm-agents"
     },
     {
       "id": "osworld-benchmarking-multimodal-agents-for-open-ended-tasks-in-real-computer-env",
@@ -228,7 +239,8 @@
         "storage": [],
         "learning": [],
         "memory_type": []
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/osworld-benchmarking-multimodal-agents-for-open-ended-tasks-in-real-computer-env"
     },
     {
       "id": "a-survey-on-the-memory-mechanism-of-large-language-model-based-agents",
@@ -246,7 +258,8 @@
         "storage": [],
         "learning": [],
         "memory_type": []
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/a-survey-on-the-memory-mechanism-of-large-language-model-based-agents"
     },
     {
       "id": "hipporag-neurobiologically-inspired-long-term-memory-for-large-language-models",
@@ -272,7 +285,8 @@
           "Episodic",
           "Semantic"
         ]
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/hipporag-neurobiologically-inspired-long-term-memory-for-large-language-models"
     },
     {
       "id": "optimus-1-hybrid-multimodal-memory-empowered-agents-excel-in-long-horizon-tasks",
@@ -296,7 +310,8 @@
         "memory_type": [
           "Multimodal"
         ]
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/optimus-1-hybrid-multimodal-memory-empowered-agents-excel-in-long-horizon-tasks"
     },
     {
       "id": "visualagentbench-towards-large-multimodal-models-as-visual-foundation-agents",
@@ -314,7 +329,8 @@
         "storage": [],
         "learning": [],
         "memory_type": []
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/visualagentbench-towards-large-multimodal-models-as-visual-foundation-agents"
     },
     {
       "id": "agent-workflow-memory-awm",
@@ -338,7 +354,8 @@
         "memory_type": [
           "Procedural"
         ]
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/agent-workflow-memory-awm"
     },
     {
       "id": "memsim-a-bayesian-simulator-for-evaluating-memory-of-llm-based-personal-assistan",
@@ -356,7 +373,8 @@
         "storage": [],
         "learning": [],
         "memory_type": []
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/memsim-a-bayesian-simulator-for-evaluating-memory-of-llm-based-personal-assistan"
     },
     {
       "id": "longmemeval-benchmarking-chat-assistants-on-long-term-interactive-memory",
@@ -374,7 +392,8 @@
         "storage": [],
         "learning": [],
         "memory_type": []
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/longmemeval-benchmarking-chat-assistants-on-long-term-interactive-memory"
     },
     {
       "id": "the-browsergym-ecosystem-for-web-agent-research",
@@ -392,7 +411,8 @@
         "storage": [],
         "learning": [],
         "memory_type": []
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/the-browsergym-ecosystem-for-web-agent-research"
     },
     {
       "id": "theagentcompany-benchmarking-llm-agents-on-consequential-real-world-tasks",
@@ -410,7 +430,8 @@
         "storage": [],
         "learning": [],
         "memory_type": []
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/theagentcompany-benchmarking-llm-agents-on-consequential-real-world-tasks"
     },
     {
       "id": "episodic-memory-in-ai-agents-poses-risks-that-should-be-studied-and-mitigate",
@@ -428,7 +449,8 @@
         "storage": [],
         "learning": [],
         "memory_type": []
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/episodic-memory-in-ai-agents-poses-risks-that-should-be-studied-and-mitigate"
     },
     {
       "id": "sam2act-integrating-visual-foundation-model-with-a-memory-architecture-for-robot",
@@ -453,7 +475,8 @@
           "Episodic",
           "Multimodal"
         ]
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/sam2act-integrating-visual-foundation-model-with-a-memory-architecture-for-robot"
     },
     {
       "id": "a-mem-agentic-memory-for-llm-agents",
@@ -479,7 +502,8 @@
           "Procedural",
           "Semantic"
         ]
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/a-mem-agentic-memory-for-llm-agents"
     },
     {
       "id": "from-rag-to-memory-non-parametric-continual-learning-for-large-language-models-h",
@@ -529,7 +553,8 @@
         "memory_type": [
           "Episodic"
         ]
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/r3mem-bridging-memory-retention-and-retrieval-via-reversible-compressio-n"
     },
     {
       "id": "retrieval-augmented-generation-and-understanding-in-vision-a-survey-and-new-outl",
@@ -547,7 +572,8 @@
         "storage": [],
         "learning": [],
         "memory_type": []
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/retrieval-augmented-generation-and-understanding-in-vision-a-survey-and-new-outl"
     },
     {
       "id": "realwebassist-a-benchmark-for-long-horizon-web-assistance-with-real-world-users",
@@ -565,7 +591,8 @@
         "storage": [],
         "learning": [],
         "memory_type": []
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/realwebassist-a-benchmark-for-long-horizon-web-assistance-with-real-world-users"
     },
     {
       "id": "capture-evaluating-spatial-reasoning-in-vision-language-models-via-occluded-obje",
@@ -583,7 +610,8 @@
         "storage": [],
         "learning": [],
         "memory_type": []
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/capture-evaluating-spatial-reasoning-in-vision-language-models-via-occluded-obje"
     },
     {
       "id": "mem0-building-production-ready-ai-agents-with-scalable-long-term-memory",
@@ -608,7 +636,8 @@
           "Episodic",
           "Semantic"
         ]
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/mem0-building-production-ready-ai-agents-with-scalable-long-term-memory"
     },
     {
       "id": "towards-general-continuous-memory-for-vision-language-models",
@@ -635,7 +664,8 @@
           "Multimodal",
           "Semantic"
         ]
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/towards-general-continuous-memory-for-vision-language-models"
     },
     {
       "id": "3dllm-mem-long-term-spatial-temporal-memory-for-embodied-3d-large-language-model",
@@ -661,7 +691,8 @@
           "Multimodal",
           "Semantic"
         ]
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/3dllm-mem-long-term-spatial-temporal-memory-for-embodied-3d-large-language-model"
     },
     {
       "id": "memory-os-of-ai-agent",
@@ -687,7 +718,8 @@
           "Procedural",
           "Semantic"
         ]
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/memory-os-of-ai-agent"
     },
     {
       "id": "webchorearena-evaluating-web-browsing-agents-on-realistic-tedious-web-tasks",
@@ -705,7 +737,8 @@
         "storage": [],
         "learning": [],
         "memory_type": []
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/webchorearena-evaluating-web-browsing-agents-on-realistic-tedious-web-tasks"
     },
     {
       "id": "scaling-test-time-compute-for-llm-agents",
@@ -727,7 +760,8 @@
           "Prompt-based"
         ],
         "memory_type": []
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/scaling-test-time-compute-for-llm-agents"
     },
     {
       "id": "machine-mental-imagery-empower-multimodal-reasoning-with-latent-visual-token",
@@ -749,7 +783,8 @@
         "memory_type": [
           "Multimodal"
         ]
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/machine-mental-imagery-empower-multimodal-reasoning-with-latent-visual-token"
     },
     {
       "id": "ella-embodied-social-agents-with-lifelong-memory",
@@ -774,7 +809,8 @@
           "Episodic",
           "Semantic"
         ]
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/ella-embodied-social-agents-with-lifelong-memory"
     },
     {
       "id": "evaluating-memory-in-llm-agents-via-incremental-multi-turn-interactions",
@@ -792,7 +828,8 @@
         "storage": [],
         "learning": [],
         "memory_type": []
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/evaluating-memory-in-llm-agents-via-incremental-multi-turn-interactions"
     },
     {
       "id": "prime-large-language-model-personalization-with-cognitive-dual-memory-and-person",
@@ -817,7 +854,8 @@
           "Episodic",
           "Semantic"
         ]
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/prime-large-language-model-personalization-with-cognitive-dual-memory-and-person"
     },
     {
       "id": "mavis-a-multi-agent-framework-for-long-sequence-video-storytelling",
@@ -842,7 +880,8 @@
           "Episodic",
           "Multimodal"
         ]
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/mavis-a-multi-agent-framework-for-long-sequence-video-storytelling"
     },
     {
       "id": "odysseybench-evaluating-llm-agents-on-long-horizon-complex-office-application-wo",
@@ -860,7 +899,8 @@
         "storage": [],
         "learning": [],
         "memory_type": []
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/odysseybench-evaluating-llm-agents-on-long-horizon-complex-office-application-wo"
     },
     {
       "id": "m3-agent-seeing-listening-remembering-and-reasoning-a-multimodal-agent-with-long",
@@ -886,7 +926,8 @@
           "Multimodal",
           "Semantic"
         ]
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/m3-agent-seeing-listening-remembering-and-reasoning-a-multimodal-agent-with-long"
     },
     {
       "id": "explicit-v-s-implicit-memory-exploring-multi-hop-complex-reasoning-over-personal",
@@ -911,7 +952,8 @@
         "memory_type": [
           "Semantic"
         ]
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/explicit-v-s-implicit-memory-exploring-multi-hop-complex-reasoning-over-personal"
     },
     {
       "id": "a-neural-network-model-of-free-recall-learns-multiple-memory-strategies",
@@ -933,7 +975,8 @@
         "memory_type": [
           "Episodic"
         ]
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/a-neural-network-model-of-free-recall-learns-multiple-memory-strategies"
     },
     {
       "id": "memory-management-and-contextual-consistency-for-long-running-low-code-agents",
@@ -958,7 +1001,8 @@
           "Episodic",
           "Procedural"
         ]
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/memory-management-and-contextual-consistency-for-long-running-low-code-agents"
     },
     {
       "id": "reasoningbank-scaling-agent-self-evolving-with-reasoning-memory",
@@ -983,7 +1027,8 @@
           "Episodic",
           "Procedural"
         ]
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/reasoningbank-scaling-agent-self-evolving-with-reasoning-memory"
     },
     {
       "id": "memgen-weaving-generative-latent-memory-for-self-evolving-agents",
@@ -1003,7 +1048,8 @@
         ],
         "learning": [],
         "memory_type": []
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/memgen-weaving-generative-latent-memory-for-self-evolving-agents"
     },
     {
       "id": "a-framework-for-studying-ai-agent-behavior-evidence-from-consumer-choice-experim",
@@ -1021,7 +1067,8 @@
         "storage": [],
         "learning": [],
         "memory_type": []
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/a-framework-for-studying-ai-agent-behavior-evidence-from-consumer-choice-experim"
     },
     {
       "id": "tokmem-tokenized-procedural-memory-for-large-language-models",
@@ -1045,7 +1092,8 @@
         "memory_type": [
           "Procedural"
         ]
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/tokmem-tokenized-procedural-memory-for-large-language-models"
     },
     {
       "id": "agentrl-scaling-agentic-reinforcement-learning-with-a-multi-turn-multi-task-fram",
@@ -1065,7 +1113,8 @@
           "RL-based"
         ],
         "memory_type": []
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/agentrl-scaling-agentic-reinforcement-learning-with-a-multi-turn-multi-task-fram"
     },
     {
       "id": "videolucy-deep-memory-backtracking-for-long-video-understanding",
@@ -1090,7 +1139,8 @@
           "Episodic",
           "Multimodal"
         ]
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/videolucy-deep-memory-backtracking-for-long-video-understanding"
     },
     {
       "id": "vagen-reinforcing-world-model-reasoning-for-multi-turn-vlm-agents",
@@ -1115,7 +1165,8 @@
           "Episodic",
           "Multimodal"
         ]
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/vagen-reinforcing-world-model-reasoning-for-multi-turn-vlm-agents"
     },
     {
       "id": "vismem-latent-vision-memory-unlocks-potential-of-vision-language-models",
@@ -1139,7 +1190,8 @@
         "memory_type": [
           "Multimodal"
         ]
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/vismem-latent-vision-memory-unlocks-potential-of-vision-language-models"
     },
     {
       "id": "longvt-incentivizing-thinking-with-long-videos-via-native-tool-calling",
@@ -1164,7 +1216,8 @@
           "Multimodal",
           "Procedural"
         ]
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/longvt-incentivizing-thinking-with-long-videos-via-native-tool-calling"
     },
     {
       "id": "vilomem-agentic-learner-with-grow-and-refine-multimodal-semantic-memory",
@@ -1187,7 +1240,8 @@
           "Multimodal",
           "Semantic"
         ]
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/vilomem-agentic-learner-with-grow-and-refine-multimodal-semantic-memory"
     },
     {
       "id": "measuring-agents-in-production",
@@ -1205,7 +1259,8 @@
         "storage": [],
         "learning": [],
         "memory_type": []
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/measuring-agents-in-production"
     },
     {
       "id": "memverse-multimodal-memory-for-lifelong-learning-agents",
@@ -1232,7 +1287,8 @@
           "Procedural",
           "Semantic"
         ]
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/memverse-multimodal-memory-for-lifelong-learning-agents"
     },
     {
       "id": "hindsight-is-20-20-building-agent-memory-that-retains-recalls-and-reflects",
@@ -1257,7 +1313,8 @@
           "Episodic",
           "Semantic"
         ]
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/hindsight-is-20-20-building-agent-memory-that-retains-recalls-and-reflects"
     },
     {
       "id": "memory-in-the-age-of-ai-agents",
@@ -1275,7 +1332,8 @@
         "storage": [],
         "learning": [],
         "memory_type": []
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/memory-in-the-age-of-ai-agents"
     },
     {
       "id": "qwenlong-l1-5-post-training-recipe-for-long-context-reasoning-and-memory-managem",
@@ -1297,7 +1355,8 @@
           "SFT"
         ],
         "memory_type": []
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/qwenlong-l1-5-post-training-recipe-for-long-context-reasoning-and-memory-managem"
     },
     {
       "id": "ai-meets-brain-memory-systems-from-cognitive-neuroscience-to-autonomous-agents",
@@ -1315,7 +1374,8 @@
         "storage": [],
         "learning": [],
         "memory_type": []
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/ai-meets-brain-memory-systems-from-cognitive-neuroscience-to-autonomous-agents"
     },
     {
       "id": "simplemem-efficient-lifelong-memory-for-llm-agents",
@@ -1340,7 +1400,8 @@
           "Episodic",
           "Semantic"
         ]
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/simplemem-efficient-lifelong-memory-for-llm-agents"
     },
     {
       "id": "mem-gallery-benchmarking-multimodal-long-term-conversational-memory-for-mllm-age",
@@ -1358,7 +1419,8 @@
         "storage": [],
         "learning": [],
         "memory_type": []
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/mem-gallery-benchmarking-multimodal-long-term-conversational-memory-for-mllm-age"
     },
     {
       "id": "knowme-bench-benchmarking-person-understanding-for-lifelong-digital-companions",
@@ -1376,7 +1438,8 @@
         "storage": [],
         "learning": [],
         "memory_type": []
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/knowme-bench-benchmarking-person-understanding-for-lifelong-digital-companions"
     },
     {
       "id": "rethinking-memory-mechanisms-of-foundation-agents-in-the-second-half",
@@ -1394,7 +1457,8 @@
         "storage": [],
         "learning": [],
         "memory_type": []
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/rethinking-memory-mechanisms-of-foundation-agents-in-the-second-half"
     },
     {
       "id": "cast-character-and-scene-episodic-memory-for-agents",
@@ -1418,7 +1482,8 @@
         "memory_type": [
           "Episodic"
         ]
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/cast-character-and-scene-episodic-memory-for-agents"
     },
     {
       "id": "agentic-reasoning-for-large-language-models",
@@ -1439,7 +1504,8 @@
           "Training-free"
         ],
         "memory_type": []
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/agentic-reasoning-for-large-language-models"
     },
     {
       "id": "longhorizonui-a-unified-framework-for-robust-long-horizon-task-automation-of-gui",
@@ -1457,7 +1523,8 @@
         "storage": [],
         "learning": [],
         "memory_type": []
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/longhorizonui-a-unified-framework-for-robust-long-horizon-task-automation-of-gui"
     },
     {
       "id": "memocr-layout-aware-visual-memory-for-efficient-long-horizon-reasoning",
@@ -1482,7 +1549,8 @@
           "Episodic",
           "Multimodal"
         ]
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/memocr-layout-aware-visual-memory-for-efficient-long-horizon-reasoning"
     },
     {
       "id": "dep-search-learning-dependency-aware-reasoning-traces-with-persistent-memory",
@@ -1506,7 +1574,8 @@
         "memory_type": [
           "Episodic"
         ]
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/dep-search-learning-dependency-aware-reasoning-traces-with-persistent-memory"
     },
     {
       "id": "visual-generation-unlocks-human-like-reasoning-through-multimodal-world-models",
@@ -1530,7 +1599,8 @@
         "memory_type": [
           "Multimodal"
         ]
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/visual-generation-unlocks-human-like-reasoning-through-multimodal-world-models"
     },
     {
       "id": "os-marathon-benchmarking-computer-use-agents-on-long-horizon-repetitive-tasks",
@@ -1548,7 +1618,8 @@
         "storage": [],
         "learning": [],
         "memory_type": []
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/os-marathon-benchmarking-computer-use-agents-on-long-horizon-repetitive-tasks"
     },
     {
       "id": "mentisoculi-revealing-the-limits-of-reasoning-with-mental-imagery",
@@ -1566,7 +1637,8 @@
         "storage": [],
         "learning": [],
         "memory_type": []
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/mentisoculi-revealing-the-limits-of-reasoning-with-mental-imagery"
     },
     {
       "id": "memskill-learning-and-evolving-memory-skills-for-self-evolving-agents",
@@ -1590,7 +1662,8 @@
         "memory_type": [
           "Procedural"
         ]
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/memskill-learning-and-evolving-memory-skills-for-self-evolving-agents"
     },
     {
       "id": "memgui-bench-benchmarking-memory-of-mobile-gui-agents-in-dynamic-environments",
@@ -1608,7 +1681,8 @@
         "storage": [],
         "learning": [],
         "memory_type": []
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/memgui-bench-benchmarking-memory-of-mobile-gui-agents-in-dynamic-environments"
     },
     {
       "id": "learning-to-continually-learn-via-meta-learning-agentic-memory-designs",
@@ -1632,7 +1706,8 @@
         "memory_type": [
           "Episodic"
         ]
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/learning-to-continually-learn-via-meta-learning-agentic-memory-designs"
     },
     {
       "id": "tracemem-weaving-narrative-memory-schemata-from-user-conversational-traces",
@@ -1657,7 +1732,8 @@
           "Episodic",
           "Semantic"
         ]
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/tracemem-weaving-narrative-memory-schemata-from-user-conversational-traces"
     },
     {
       "id": "when-to-memorize-and-when-to-stop-gated-recurrent-memory-for-long-context-reason",
@@ -1679,7 +1755,8 @@
           "SFT"
         ],
         "memory_type": []
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/when-to-memorize-and-when-to-stop-gated-recurrent-memory-for-long-context-reason"
     },
     {
       "id": "memoryarena-benchmarking-agent-memory-in-interdependent-multi-session-agentic-ta",
@@ -1697,7 +1774,8 @@
         "storage": [],
         "learning": [],
         "memory_type": []
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/memoryarena-benchmarking-agent-memory-in-interdependent-multi-session-agentic-ta"
     },
     {
       "id": "remem-reasoning-with-episodic-memory-in-language-agent",
@@ -1721,7 +1799,8 @@
         "memory_type": [
           "Episodic"
         ]
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/remem-reasoning-with-episodic-memory-in-language-agent"
     },
     {
       "id": "plan-mcts-plan-exploration-for-action-exploitation-in-web-navigation",
@@ -1743,7 +1822,8 @@
         "memory_type": [
           "Procedural"
         ]
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/plan-mcts-plan-exploration-for-action-exploitation-in-web-navigation"
     },
     {
       "id": "modeling-distinct-human-interaction-in-web-agents",
@@ -1767,7 +1847,8 @@
         "memory_type": [
           "Episodic"
         ]
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/modeling-distinct-human-interaction-in-web-agents"
     },
     {
       "id": "plugmem-a-task-agnostic-plugin-memory-module-for-llm-agents",
@@ -1793,7 +1874,8 @@
           "Episodic",
           "Semantic"
         ]
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/plugmem-a-task-agnostic-plugin-memory-module-for-llm-agents"
     },
     {
       "id": "agentvista-evaluating-multimodal-agents-in-ultra-challenging-realistic-visual-sc",
@@ -1811,7 +1893,8 @@
         "storage": [],
         "learning": [],
         "memory_type": []
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/agentvista-evaluating-multimodal-agents-in-ultra-challenging-realistic-visual-sc"
     },
     {
       "id": "ama-bench-evaluating-long-horizon-memory-for-agentic-applications",
@@ -1829,7 +1912,8 @@
         "storage": [],
         "learning": [],
         "memory_type": []
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/ama-bench-evaluating-long-horizon-memory-for-agentic-applications"
     },
     {
       "id": "a-subgoal-driven-framework-for-improving-long-horizon-llm-agents",
@@ -1855,7 +1939,8 @@
           "Episodic",
           "Procedural"
         ]
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/a-subgoal-driven-framework-for-improving-long-horizon-llm-agents"
     },
     {
       "id": "omni-simplemem-autoresearch-guided-discovery-of-lifelong-multimodal-agent-memory",
@@ -1882,7 +1967,8 @@
           "Procedural",
           "Semantic"
         ]
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/omni-simplemem-autoresearch-guided-discovery-of-lifelong-multimodal-agent-memory"
     },
     {
       "id": "gym-anything-turn-any-software-into-an-agent-environment",
@@ -1900,7 +1986,8 @@
         "storage": [],
         "learning": [],
         "memory_type": []
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/gym-anything-turn-any-software-into-an-agent-environment"
     },
     {
       "id": "higmem-a-hierarchical-and-llm-guided-memory-system-for-long-term-conversational-",
@@ -1926,7 +2013,8 @@
           "Episodic",
           "Semantic"
         ]
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/higmem-a-hierarchical-and-llm-guided-memory-system-for-long-term-conversational-"
     },
     {
       "id": "gated-memory-policy",
@@ -1950,7 +2038,8 @@
         "memory_type": [
           "Episodic"
         ]
-      }
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/gated-memory-policy"
     }
   ]
 }
