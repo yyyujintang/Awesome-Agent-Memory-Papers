@@ -261,6 +261,9 @@ Each paper is placed in exactly **one** primary section (Multimodal > Procedural
 - [HiGMem: A Hierarchical and LLM-Guided Memory System for Long-Term Conversational Agents](https://arxiv.org/abs/2604.18349)  
   *2026-04-20*  
   `Method` `External` `Prompt-based` `Training-free` `Episodic` `Semantic`
+- [ZenBrain: A Neuroscience-Inspired 7-Layer Memory Architecture for Autonomous AI Systems](https://arxiv.org/abs/2604.23878)  
+  *2026-04-09* · Alexander Bering · [[code]](https://github.com/zensation-ai/zenbrain)  
+  `Method` `External` `Training-free` `Episodic` `Semantic` `Procedural`
 - [PlugMem: A Task-Agnostic Plugin Memory Module for LLM Agents](https://arxiv.org/abs/2603.03296)  
   *2026-02-23* · [[code]](https://github.com/TIMAN-group/PlugMem)  
   `Method` `External` `Prompt-based` `Training-free` `Episodic` `Semantic`
