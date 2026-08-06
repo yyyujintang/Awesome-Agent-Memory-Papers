@@ -77,6 +77,9 @@ Evaluation suites for agent memory, split by interaction mode.
 
 ### Web Navigation
 
+- [ClawBench: A Benchmark for Evaluating AI Agents on Everyday Web Tasks](https://arxiv.org/abs/2604.08523) [[code]](https://github.com/reacher-z/ClawBench) [[project]](https://claw-bench.com)  
+  *2026-04-09*  
+  `Benchmark` `Web`
 - WebChoreArena: Evaluating Web Browsing Agents on Realistic Tedious Web Tasks  
   *2025-06-02*  
   `Benchmark` `Web`
@@ -356,4 +359,3 @@ Each paper is placed in exactly **one** primary section (Multimodal > Procedural
 ## Citation
 
 If this list is useful in your work, please consider starring the repo.
-
