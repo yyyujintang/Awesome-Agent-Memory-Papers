@@ -2040,6 +2040,55 @@
         ]
       },
       "blog_url": "https://jenny-blog-eight.vercel.app/posts/gated-memory-policy"
+    },
+    {
+      "id": "structmem-structured-memory-for-long-horizon-behavior-in-llms",
+      "title": "StructMem: Structured Memory for Long-Horizon Behavior in LLMs",
+      "venue": "ACL26",
+      "year": 2026,
+      "date": "2026-04-23",
+      "link": "https://arxiv.org/abs/2604.21748",
+      "code": "https://github.com/zjunlp/LightMem",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Method",
+        "benchmark_type": null,
+        "storage": [
+          "External"
+        ],
+        "learning": [
+          "Prompt-based",
+          "Training-free"
+        ],
+        "memory_type": [
+          "Episodic",
+          "Semantic"
+        ]
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/structmem-structured-memory-for-long-horizon-behavior-in-llms"
+    },
+    {
+      "id": "tokenpilot-cache-efficient-context-management-for-llm-agents",
+      "title": "TokenPilot: Cache-Efficient Context Management for LLM Agents",
+      "venue": "EMNLP26",
+      "year": 2026,
+      "date": "2026-06-15",
+      "link": "https://arxiv.org/abs/2606.17016",
+      "code": "https://github.com/zjunlp/LightRSI",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Method",
+        "benchmark_type": null,
+        "storage": [],
+        "learning": [
+          "Prompt-based",
+          "Training-free"
+        ],
+        "memory_type": []
+      },
+      "blog_url": "https://jenny-blog-eight.vercel.app/posts/tokenpilot-cache-efficient-context-management-for-llm-agents"
     }
   ]
 }

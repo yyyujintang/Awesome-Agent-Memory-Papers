@@ -1,10 +1,10 @@
 # Awesome Agent Memory Papers
 
-[![Stars](https://img.shields.io/github/stars/yyyujintang/Awesome-Agent-Memory-Papers?style=social)](https://github.com/yyyujintang/Awesome-Agent-Memory-Papers/stargazers) ![Last updated](https://img.shields.io/badge/last%20updated-2026--04--21-blue) ![Papers](https://img.shields.io/badge/papers-90-success)
+[![Stars](https://img.shields.io/github/stars/yyyujintang/Awesome-Agent-Memory-Papers?style=social)](https://github.com/yyyujintang/Awesome-Agent-Memory-Papers/stargazers) ![Last updated](https://img.shields.io/badge/last%20updated-2026--08--26-blue) ![Papers](https://img.shields.io/badge/papers-92-success)
 
 A curated list of papers on **memory for LLM / multimodal agents** — methods, benchmarks, and surveys — covering episodic, semantic, procedural, and multimodal memory, with both parametric (internal) and retrieval-based (external) storage, learned via prompting, supervised finetuning, or reinforcement learning.
 
-**90 papers** · 7 surveys · 31 benchmarks · 52 methods · last updated **2026-04-21**
+**92 papers** · 7 surveys · 31 benchmarks · 54 methods · last updated **2026-08-26**
 
 Interactive dashboard with multi-tag filtering: **<https://yyyujintang.github.io/Awesome-Agent-Memory-Papers/>**
 
@@ -23,10 +23,10 @@ Interactive dashboard with multi-tag filtering: **<https://yyyujintang.github.io
 - [Methods](#methods)
   - [Multimodal Memory](#multimodal-memory) (16)
   - [Procedural Memory](#procedural-memory) (10)
-  - [Episodic Memory](#episodic-memory) (18)
+  - [Episodic Memory](#episodic-memory) (19)
   - [Semantic Memory](#semantic-memory) (2)
   - [Internal / Parametric Memory](#internal-parametric-memory) (4)
-  - [Other Methods](#other-methods) (2)
+  - [Other Methods](#other-methods) (3)
 - [Tag Legend](#tag-legend)
 
 ## Surveys
@@ -255,6 +255,9 @@ Each paper is placed in exactly **one** primary section (Multimodal > Procedural
 
 ### Episodic Memory
 
+- [StructMem: Structured Memory for Long-Horizon Behavior in LLMs](https://arxiv.org/abs/2604.21748)  
+  *2026-04-23* · **ACL26** · [[code]](https://github.com/zjunlp/LightMem)  
+  `Method` `External` `Prompt-based` `Training-free` `Episodic` `Semantic`
 - [Gated Memory Policy](https://arxiv.org/abs/2604.18933)  
   *2026-04-21* · Shuran Song  
   `Method` `Internal` `RL-based` `Episodic`
@@ -336,6 +339,9 @@ Each paper is placed in exactly **one** primary section (Multimodal > Procedural
 
 ### Other Methods
 
+- [TokenPilot: Cache-Efficient Context Management for LLM Agents](https://arxiv.org/abs/2606.17016)  
+  *2026-06-15* · **EMNLP26** · [[code]](https://github.com/zjunlp/LightRSI)  
+  `Method` `Prompt-based` `Training-free`
 - [Agentic Reasoning for Large Language Models](https://arxiv.org/abs/2601.12538)  
   *2026-01-18* · Heng Ji  
   `Method` `Prompt-based` `Training-free`
