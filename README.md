@@ -1,10 +1,10 @@
 # Awesome Agent Memory Papers
 
-[![Stars](https://img.shields.io/github/stars/yyyujintang/Awesome-Agent-Memory-Papers?style=social)](https://github.com/yyyujintang/Awesome-Agent-Memory-Papers/stargazers) ![Last updated](https://img.shields.io/badge/last%20updated-2026--04--21-blue) ![Papers](https://img.shields.io/badge/papers-90-success)
+[![Stars](https://img.shields.io/github/stars/yyyujintang/Awesome-Agent-Memory-Papers?style=social)](https://github.com/yyyujintang/Awesome-Agent-Memory-Papers/stargazers) ![Last updated](https://img.shields.io/badge/last%20updated-2026--09--30-blue) ![Papers](https://img.shields.io/badge/papers-91-success)
 
 A curated list of papers on **memory for LLM / multimodal agents** — methods, benchmarks, and surveys — covering episodic, semantic, procedural, and multimodal memory, with both parametric (internal) and retrieval-based (external) storage, learned via prompting, supervised finetuning, or reinforcement learning.
 
-**90 papers** · 7 surveys · 31 benchmarks · 52 methods · last updated **2026-04-21**
+**91 papers** · 7 surveys · 32 benchmarks · 52 methods · last updated **2026-09-30**
 
 Interactive dashboard with multi-tag filtering: **<https://yyyujintang.github.io/Awesome-Agent-Memory-Papers/>**
 
@@ -18,7 +18,7 @@ Interactive dashboard with multi-tag filtering: **<https://yyyujintang.github.io
   - [QA-based Memory Evaluation](#qa-based-memory-evaluation) (5)
   - [Web Navigation](#web-navigation) (7)
   - [Desktop / Mobile GUI](#desktop-mobile-gui) (6)
-  - [Embodied & Game Environments](#embodied-game-environments) (6)
+  - [Embodied & Game Environments](#embodied-game-environments) (7)
   - [General Long-Horizon / Office](#general-long-horizon-office) (7)
 - [Methods](#methods)
   - [Multimodal Memory](#multimodal-memory) (16)
@@ -121,6 +121,10 @@ Evaluation suites for agent memory, split by interaction mode.
   `Benchmark` `GUI`
 
 ### Embodied & Game Environments
+
+- [EmbodiedMemory-Bench: Benchmarking Embodied Memory for Long-Horizon Embodied Tasks](https://arxiv.org/abs/2609.28236)  
+  *2026-09-23* · Lizhou Liang et al. · [[code]](https://github.com/ZJU-OmniAI/Embodied-Omni/tree/main/embodied_memory)  
+  `Benchmark` `Embodied`
 
 - [AGENTVISTA: Evaluating Multimodal Agents in Ultra-Challenging Realistic Visual Scenarios](https://arxiv.org/abs/2602.23166)  
   *2026-02-26* · Junxian He, May Fung  

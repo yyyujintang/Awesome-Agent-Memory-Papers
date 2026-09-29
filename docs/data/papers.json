@@ -1,6 +1,25 @@
 {
   "papers": [
     {
+      "id": "embodiedmemory-bench",
+      "title": "EmbodiedMemory-Bench: Benchmarking Embodied Memory for Long-Horizon Embodied Tasks",
+      "venue": "arXiv",
+      "year": 2026,
+      "date": "2026-09-23",
+      "link": "https://arxiv.org/abs/2609.28236",
+      "code": "https://github.com/ZJU-OmniAI/Embodied-Omni/tree/main/embodied_memory",
+      "notes": "Interactive embodied-memory evaluation across 2,554 episodes; includes the Embodied-Memorizer external memory system.",
+      "authors": "Lizhou Liang et al.",
+      "tags": {
+        "category": "Benchmark",
+        "benchmark_type": "Embodied",
+        "storage": [],
+        "learning": [],
+        "memory_type": []
+      },
+      "blog_url": ""
+    },
+    {
       "id": "textworld-a-learning-environment-for-text-based-game",
       "title": "TextWorld: A Learning Environment for Text-based Game",
       "venue": "IJCAI18",
