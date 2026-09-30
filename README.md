@@ -255,6 +255,9 @@ Each paper is placed in exactly **one** primary section (Multimodal > Procedural
 
 ### Episodic Memory
 
+- [ZenBrain: A Neuroscience-Inspired 7-Layer Memory Architecture for Autonomous AI Systems](https://arxiv.org/abs/2604.23878)  
+  *2026-04-26* · Alexander Bering · [[code]](https://github.com/zensation-ai/zenbrain)  
+  `Method` `External` `Training-free` `Episodic` `Semantic` `Procedural`
 - [Gated Memory Policy](https://arxiv.org/abs/2604.18933)  
   *2026-04-21* · Shuran Song  
   `Method` `Internal` `RL-based` `Episodic`
