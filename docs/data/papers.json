@@ -2040,6 +2040,32 @@
         ]
       },
       "blog_url": "https://jenny-blog-eight.vercel.app/posts/gated-memory-policy"
+    },
+    {
+      "id": "onestreamer",
+      "title": "OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction",
+      "venue": "arXiv",
+      "year": 2026,
+      "date": "2026-10-01",
+      "link": "https://arxiv.org/abs/2610.01762",
+      "code": "https://github.com/MCG-NJU/OneStreamer",
+      "notes": "PHCM records local visual details and completed-event summaries before future queries are known.",
+      "authors": "Xiangyu Zeng, Yuandong Yang, Zhiqiu Zhang, Yuhan Zhu, Xinhao Li, Qingyi Si, Dingyu Yao, Changlian Ma, Haoran Chen, Xinyu Chen, Yansong Shi, Junhao Zhou, Yifei Li, Jun Zhang, Chuanyu Qin, Chenxu Yang, Xinlei Yu, Kun Ouyang, Yuchen Shao, Qianshan Wei, Changhai Zhou, Jun Gao, Jiaqi Wang, Limin Wang",
+      "tags": {
+        "category": "Method",
+        "benchmark_type": null,
+        "storage": [
+          "External"
+        ],
+        "learning": [
+          "SFT"
+        ],
+        "memory_type": [
+          "Episodic",
+          "Multimodal"
+        ]
+      },
+      "blog_url": ""
     }
   ]
 }

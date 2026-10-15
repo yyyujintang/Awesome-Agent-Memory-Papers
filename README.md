@@ -1,10 +1,10 @@
 # Awesome Agent Memory Papers
 
-[![Stars](https://img.shields.io/github/stars/yyyujintang/Awesome-Agent-Memory-Papers?style=social)](https://github.com/yyyujintang/Awesome-Agent-Memory-Papers/stargazers) ![Last updated](https://img.shields.io/badge/last%20updated-2026--04--21-blue) ![Papers](https://img.shields.io/badge/papers-90-success)
+[![Stars](https://img.shields.io/github/stars/yyyujintang/Awesome-Agent-Memory-Papers?style=social)](https://github.com/yyyujintang/Awesome-Agent-Memory-Papers/stargazers) ![Last updated](https://img.shields.io/badge/last%20updated-2026--10--15-blue) ![Papers](https://img.shields.io/badge/papers-91-success)
 
 A curated list of papers on **memory for LLM / multimodal agents** — methods, benchmarks, and surveys — covering episodic, semantic, procedural, and multimodal memory, with both parametric (internal) and retrieval-based (external) storage, learned via prompting, supervised finetuning, or reinforcement learning.
 
-**90 papers** · 7 surveys · 31 benchmarks · 52 methods · last updated **2026-04-21**
+**91 papers** · 7 surveys · 31 benchmarks · 53 methods · last updated **2026-10-15**
 
 Interactive dashboard with multi-tag filtering: **<https://yyyujintang.github.io/Awesome-Agent-Memory-Papers/>**
 
@@ -21,7 +21,7 @@ Interactive dashboard with multi-tag filtering: **<https://yyyujintang.github.io
   - [Embodied & Game Environments](#embodied-game-environments) (6)
   - [General Long-Horizon / Office](#general-long-horizon-office) (7)
 - [Methods](#methods)
-  - [Multimodal Memory](#multimodal-memory) (16)
+  - [Multimodal Memory](#multimodal-memory) (17)
   - [Procedural Memory](#procedural-memory) (10)
   - [Episodic Memory](#episodic-memory) (18)
   - [Semantic Memory](#semantic-memory) (2)
@@ -170,6 +170,10 @@ Evaluation suites for agent memory, split by interaction mode.
 Each paper is placed in exactly **one** primary section (Multimodal > Procedural > Episodic > Semantic > External > Internal). Tag badges on each entry show the full tag vector — use the website for true multi-axis filtering.
 
 ### Multimodal Memory
+
+- [OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction](https://arxiv.org/abs/2610.01762)  
+  *2026-10-01* · [[code]](https://github.com/MCG-NJU/OneStreamer)  
+  `Method` `External` `SFT` `Episodic` `Multimodal`
 
 - [Omni-SimpleMem: Autoresearch-Guided Discovery of Lifelong Multimodal Agent Memory](https://arxiv.org/abs/2604.01007)  
   *2026-04-01*  
