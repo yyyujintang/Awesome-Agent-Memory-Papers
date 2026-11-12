@@ -2040,6 +2040,33 @@
         ]
       },
       "blog_url": "https://jenny-blog-eight.vercel.app/posts/gated-memory-policy"
+    },
+    {
+      "id": "who-remembers-what-multi-granularity-memory-extraction-for-multi-user-multi-agen",
+      "title": "Who Remembers What? Multi-Granularity Memory Extraction for Multi-User, Multi-Agent Interaction (MixUA)",
+      "venue": "",
+      "year": 2026,
+      "date": "2026-11-07",
+      "link": "https://arxiv.org/abs/2611.10439",
+      "code": "",
+      "notes": "",
+      "authors": "",
+      "tags": {
+        "category": "Method",
+        "benchmark_type": null,
+        "storage": [
+          "External"
+        ],
+        "learning": [
+          "Prompt-based"
+        ],
+        "memory_type": [
+          "Episodic",
+          "Procedural",
+          "Semantic"
+        ]
+      },
+      "blog_url": ""
     }
   ]
 }
